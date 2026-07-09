@@ -24,7 +24,7 @@ domestic helpers and other workers navigating HK labour law).
 | **Bonus:** multilingual (EN + Tagalog) | ✅ retrieval *and* generation |
 | **Bonus:** confidence / fallback | ✅ calibrated cross-encoder confidence gate |
 | **Bonus:** advanced retrieval | ✅ cross-encoder **re-ranking** |
-| **Bonus:** fine-tuning | 🚧 Colab-ready QLoRA notebook (see `finetuning/`) |
+| **Bonus:** fine-tuning | ✅ QLoRA notebook + dataset builder + `hf_local` provider (see `finetuning/`) |
 
 ---
 

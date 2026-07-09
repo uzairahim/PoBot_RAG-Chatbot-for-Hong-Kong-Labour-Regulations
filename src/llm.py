@@ -81,10 +81,49 @@ class OllamaProvider(LLMProvider):
         return resp["message"]["content"].strip()
 
 
+class HFLocalProvider(LLMProvider):
+    """Run our fine-tuned model in-process: base model + LoRA adapter.
+
+    This is the connect-back for the fine-tuning bonus — set LLM_PROVIDER=hf_local
+    and the QLoRA-tuned model answers through the exact same RAG pipeline. Runs on
+    CPU if no GPU is present (slow but functional — it's a demonstration).
+    """
+
+    def __init__(self, model: str):
+        super().__init__(model)
+        import torch  # lazy imports — only needed for this provider
+        from transformers import AutoModelForCausalLM, AutoTokenizer
+
+        base = settings.hf_base_model
+        self.tokenizer = AutoTokenizer.from_pretrained(base)
+        self._model = AutoModelForCausalLM.from_pretrained(
+            base, torch_dtype=torch.float32, device_map="auto",
+        )
+        # Attach the fine-tuned adapter if one is configured.
+        if settings.hf_adapter_dir:
+            from peft import PeftModel
+            self._model = PeftModel.from_pretrained(self._model, settings.hf_adapter_dir)
+        self._model.eval()
+
+    def chat(self, messages, temperature=0.1, max_tokens=1024) -> str:
+        prompt = self.tokenizer.apply_chat_template(
+            messages, tokenize=False, add_generation_prompt=True,
+        )
+        inputs = self.tokenizer(prompt, return_tensors="pt").to(self._model.device)
+        gen = self._model.generate(
+            **inputs, max_new_tokens=max_tokens,
+            do_sample=temperature > 0, temperature=max(temperature, 1e-2),
+            pad_token_id=self.tokenizer.eos_token_id,
+        )
+        new_tokens = gen[0][inputs["input_ids"].shape[1]:]
+        return self.tokenizer.decode(new_tokens, skip_special_tokens=True).strip()
+
+
 _PROVIDERS: dict[str, type[LLMProvider]] = {
     "groq": GroqProvider,
     "openai": OpenAIProvider,
     "ollama": OllamaProvider,
+    "hf_local": HFLocalProvider,
 }
 
 

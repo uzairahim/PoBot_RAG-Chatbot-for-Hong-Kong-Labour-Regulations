@@ -10,7 +10,7 @@ from dataclasses import dataclass, field
 
 from src.config import settings
 from src.llm import LLMProvider, get_llm
-from src.retriever import Retrieved, Retriever
+from src.retriever import RetrievalResult, Retrieved, Retriever
 
 SYSTEM_PROMPT = """\
 You are PoBot, an assistant that answers questions about Hong Kong labour and \
@@ -64,6 +64,20 @@ def _build_context_block(results: list[Retrieved]) -> str:
         loc = f", p.{c['page']}" if c.get("page") else ""
         blocks.append(f"[{i}] (Source: {c['title']}{loc})\n{c['text']}")
     return "\n\n".join(blocks)
+
+
+def build_prompt_messages(question: str, results: list[Retrieved]) -> list[dict]:
+    """Assemble the system+user chat messages for a grounded answer.
+
+    Shared between the live pipeline and the fine-tuning dataset builder so the
+    model is trained on the EXACT prompt format it sees at inference.
+    """
+    context_block = _build_context_block(results)
+    return [
+        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "user",
+         "content": f"CONTEXT:\n{context_block}\n\nQUESTION: {question}\n\nAnswer:"},
+    ]
 
 
 def _citations_from(results: list[Retrieved]) -> list[Citation]:

@@ -1,5 +1,6 @@
 # --- Core RAG pipeline (runs locally on CPU) ---
-sentence-transformers>=3.0.0     # local open-source embeddings (multilingual)
+sentence-transformers>=3.0.0     # local embeddings + cross-encoder reranker
+                                 # (also provides torch + transformers transitively)
 faiss-cpu>=1.8.0                 # vector database
 pypdf>=4.2.0                     # PDF text extraction
 cryptography>=42.0.0             # required by pypdf to read AES-encrypted gov.hk PDFs

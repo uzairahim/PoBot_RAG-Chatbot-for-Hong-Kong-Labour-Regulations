@@ -1,9 +1,14 @@
 # Fine-tuning dependencies (QLoRA on an open-source model).
 # Intended for a free cloud GPU (Google Colab / Kaggle T4 16GB), because the
 # local GPU (MX350, 2GB VRAM) is too small for LLM fine-tuning.
+#
+# This file ALSO enables the `hf_local` LLM provider (src/llm.py) for running the
+# fine-tuned model locally: it needs transformers + peft (+ torch, transitive).
+# CPU inference does not need bitsandbytes; that is only for 4-bit GPU training.
 transformers>=4.44.0
 peft>=0.12.0
 datasets>=2.20.0
 accelerate>=0.33.0
 bitsandbytes>=0.43.0     # 4-bit quantization for QLoRA (needs CUDA)
 trl>=0.9.0               # SFTTrainer
+pyyaml>=6.0              # read config.yaml (also used by build_dataset.py)

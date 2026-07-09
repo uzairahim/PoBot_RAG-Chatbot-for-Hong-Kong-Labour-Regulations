@@ -15,6 +15,12 @@ env/
 # Build artifacts / index (regenerable via `python -m src.ingest`)
 data/index/
 
+# Fine-tuning: local training run outputs only.
+# (finetuning/adapter/ and finetuning/data/*.jsonl ARE committed intentionally.)
+finetuning/out/
+finetuning/**/checkpoint-*/
+finetuning/*.zip
+
 # OS / editor
 .DS_Store
 Thumbs.db

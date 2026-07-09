@@ -57,6 +57,11 @@ class Settings:
     groq_api_key: str = field(default_factory=lambda: os.getenv("GROQ_API_KEY", ""))
     openai_api_key: str = field(default_factory=lambda: os.getenv("OPENAI_API_KEY", ""))
     openai_base_url: str = field(default_factory=lambda: os.getenv("OPENAI_BASE_URL", ""))
+    # hf_local provider: run our fine-tuned model (base + LoRA adapter) in-process.
+    hf_base_model: str = field(
+        default_factory=lambda: os.getenv("HF_BASE_MODEL", "meta-llama/Llama-3.2-1B-Instruct")
+    )
+    hf_adapter_dir: str = field(default_factory=lambda: os.getenv("HF_ADAPTER_DIR", ""))
 
     # Embeddings (local, open-source, multilingual)
     embedding_model: str = field(

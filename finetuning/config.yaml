@@ -1,0 +1,42 @@
+# Fine-tuning configuration — single source of truth for the QLoRA run.
+# Consumed by build_dataset.py (dataset section) and finetune_qlora.ipynb (all).
+
+# --- Base model (small, open, instruction-tuned) ---
+base_model: meta-llama/Llama-3.2-1B-Instruct
+
+# --- Dataset generation (build_dataset.py, runs locally) ---
+dataset:
+  num_source_chunks: 150     # chunks to sample as question seeds
+  val_fraction: 0.1          # held-out fraction for evaluation
+  seed: 42
+  # Output paths (relative to the finetuning/ directory)
+  train_file: data/train.jsonl
+  val_file: data/val.jsonl
+
+# --- LoRA / QLoRA (finetune_qlora.ipynb, runs on Colab GPU) ---
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+
+quantization:
+  load_in_4bit: true
+  bnb_4bit_compute_dtype: bfloat16
+  bnb_4bit_quant_type: nf4
+  bnb_4bit_use_double_quant: true
+
+# --- Training ---
+training:
+  epochs: 3
+  learning_rate: 0.0002
+  per_device_batch_size: 2
+  gradient_accumulation_steps: 4
+  warmup_ratio: 0.03
+  max_seq_length: 1024
+  logging_steps: 10
+  save_steps: 50
+
+# --- Output ---
+output:
+  adapter_dir: adapter        # LoRA adapter is saved here, then committed
