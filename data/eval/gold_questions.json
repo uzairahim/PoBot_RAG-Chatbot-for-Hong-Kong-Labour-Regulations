@@ -1,0 +1,25 @@
+{
+  "description": "Gold evaluation set for the HK labour RAG system. Each question is labeled with the source document id(s) that should answer it (document-level relevance). A retrieved chunk counts as relevant if its source_id is in `relevant_sources`. This is a proxy for true chunk-level relevance and is a deliberately modest, honest labeling granularity (see EVALUATION.md).",
+  "questions": [
+    {"question": "What is the statutory minimum wage rate in Hong Kong?", "relevant_sources": ["statutory_minimum_wage"]},
+    {"question": "How is an employee's entitlement to paid annual leave determined?", "relevant_sources": ["employment_ordinance", "employment_ordinance_glance"]},
+    {"question": "How many rest days is an employee entitled to each month?", "relevant_sources": ["employment_ordinance", "employment_ordinance_glance"]},
+    {"question": "What sickness allowance are employees entitled to?", "relevant_sources": ["employment_ordinance", "employment_ordinance_glance"]},
+    {"question": "How much maternity leave can a female employee take?", "relevant_sources": ["employment_ordinance", "employment_ordinance_glance"]},
+    {"question": "What is the maximum commission an employment agency can charge a job seeker?", "relevant_sources": ["employment_agencies_cop"]},
+    {"question": "What are the licensing requirements to operate an employment agency?", "relevant_sources": ["employment_agencies_cop"]},
+    {"question": "What is the minimum allowable wage for a foreign domestic helper?", "relevant_sources": ["hiring_fdh_guide", "fdh_faq"]},
+    {"question": "Does an employer have to provide food to a foreign domestic helper?", "relevant_sources": ["hiring_fdh_guide", "fdh_standard_contract", "fdh_faq"]},
+    {"question": "What accommodation must an employer provide to a foreign domestic helper?", "relevant_sources": ["hiring_fdh_guide", "fdh_standard_contract"]},
+    {"question": "What percentage must employers and employees each contribute to the MPF?", "relevant_sources": ["mpf_employers_handbook"]},
+    {"question": "Within how many days must an employer enrol a new employee in an MPF scheme?", "relevant_sources": ["mpf_employers_handbook"]},
+    {"question": "What compensation is available to an employee injured at work?", "relevant_sources": ["employees_compensation"]},
+    {"question": "Is an employer required to take out employees' compensation insurance?", "relevant_sources": ["employees_compensation"]},
+    {"question": "What wage and employment records must an employer keep?", "relevant_sources": ["wage_record_keeping", "fdh_wage_records"]},
+    {"question": "How much notice is required to terminate a foreign domestic helper's employment contract?", "relevant_sources": ["fdh_standard_contract", "fdh_faq"]},
+    {"question": "What is long service payment and who is eligible for it?", "relevant_sources": ["employment_ordinance", "employment_ordinance_glance"]},
+    {"question": "Can a foreign domestic helper take up part-time work for another employer?", "relevant_sources": ["fdh_faq"]},
+    {"question": "What household income is required to hire a foreign domestic helper?", "relevant_sources": ["hiring_fdh_guide"]},
+    {"question": "What is an end of year payment under the Employment Ordinance?", "relevant_sources": ["employment_ordinance", "employment_ordinance_glance"]}
+  ]
+}

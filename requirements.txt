@@ -1,0 +1,19 @@
+# --- Core RAG pipeline (runs locally on CPU) ---
+sentence-transformers>=3.0.0     # local open-source embeddings (multilingual)
+faiss-cpu>=1.8.0                 # vector database
+pypdf>=4.2.0                     # PDF text extraction
+cryptography>=42.0.0             # required by pypdf to read AES-encrypted gov.hk PDFs
+beautifulsoup4>=4.12.0           # HTML cleaning
+lxml>=5.2.0                      # fast HTML/XML parser for bs4
+requests>=2.31.0                 # fetching source documents
+python-dotenv>=1.0.1             # .env config loading
+numpy>=1.26.0                    # array/vector ops
+tqdm>=4.66.0                     # progress bars during ingest
+
+# --- LLM providers (pluggable; only the one you use is required) ---
+groq>=0.9.0                      # default provider (free tier)
+# openai>=1.30.0                 # optional: OpenAI-compatible providers
+# ollama>=0.3.0                  # optional: fully-offline local models
+
+# NOTE: Fine-tuning dependencies live in requirements-finetune.txt and are
+# intended to run on a free cloud GPU (Colab/Kaggle), not the local machine.

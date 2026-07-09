@@ -1,0 +1,21 @@
+# Personal Stuffs
+requirements
+test-output.md
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Build artifacts / index (regenerable via `python -m src.ingest`)
+data/index/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

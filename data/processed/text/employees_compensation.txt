@@ -1,0 +1,2191 @@
+[page 1]
+A Concise Guide to the
+Employees’ Compensation Ordinance
+(with Frequently Asked Questions on
+Common Employees’ Compensation Issues)
+Labour Department
+April 2026 Edition
+
+[page 2]
+Table of Contents Page
+Introduction ................................................................................................. 1 - 3
+Part I Chapter 1 Application of the Ordinance ........................... 4
+Chapter 2 Liability for Compensation for Work Injury and
+Occupational Disease
+Injury by Accident ............................................... 5 - 6
+Occupational Disease ......................................... 6 - 7
+Chapter 3 Notification of Accidents ........................................ 8
+Chapter 4 Settlement of Employees’ Compensation Claims ... 9 - 11
+Chapter 5 Amount of Compensation
+Fatal Cases ......................................................... 12
+Non-fatal Cases
+Permanent Incapacity .......................................... 12 - 13
+Temporary Incapacity .......................................... 13 - 14
+Medical Expenses ................................................ 14 - 16
+Prostheses and Surgical Appliances ................... 16 - 17
+Notes: Compensation Level of Various Items ...... 18 - 19
+Chapter 6 Calculation of Earnings ........................................... 20 - 21
+Chapter 7 Assessment of Permanent Loss of Earning Capacity .... 22 - 23
+Chapter 8 Compulsory Insurance ............................................ 24 - 26
+Chapter 9 Miscellaneous
+Medical Examination and Treatment ................... 27 - 28
+Liability of the Principal Contractor ..................... 28 - 29
+Claims for Common Law Damages ..................... 29
+Contracting Out ................................................... 30
+Employment Protection ....................................... 30
+Appendices 1. First Schedule - List of Injuries ............................................... 31 - 34
+2. Second Schedule - List of Occupational Diseases ................. 35 - 45
+Part II Frequently Asked Questions on Common Employees’
+Compensation Issues ................................................................. 46 - 60
+List of Commonly Used Prescribed Forms under
+the Employees’ Compensation Ordinance ................................. 61
+
+[page 3]
+Introduction
+This guide, in its first part, sets out briefly the main provisions of the
+Employees’ Compensation Ordinance, Chapter 282 of the Laws of Hong
+Kong. The Ordinance lays down the rights and obligations of employers and
+employees in respect of injuries or death caused by accidents arising out of and
+in the course of employment, or by prescribed occupational diseases under
+the Ordinance. The Ordinance remains the sole authority for the provisions
+of the law explained. The full text of the Ordinance has been uploaded to the
+Hong Kong e-Legislation of the Department of Justice
+(https://www.elegislation.gov.hk) .
+The second part is a question-and-answer section on some common
+employees’ compensation issues which aims at explaining the procedures and
+administrative measures adopted by the Employees’ Compensation Division of
+the Labour Department in handling and processing employees’ compensation
+claims; as well as answering some frequently asked questions in relation to
+the Ordinance. It also lists out the commonly used prescribed forms under the
+Ordinance.
+This guide and other publications related to employees’ compensation
+have been uploaded to the Labour Department website
+(https://www.labour.gov.hk/eng/public/content2_7.htm).
+If you have queries about the Ordinance, please call 2717 1771 (the
+hotline is handled by the “1823”). For enquiries on individual compensation
+claims, please approach the relevant office of the Employees’ Compensation
+Division of the Labour Department:
+
+[page 4]
+2 3
+Office of the Employees’
+Compensation Division,
+Labour Department
+Address
+Work Injury Cases
+Submit relevant forms for reporting work injury cases or prescribed
+occupational disease cases:
+• Employees’ Compensation Division
+Operations – Central Processing
+Team
+Room 1007, 10/F,
+Cheung Sha Wan Government
+Offices, 303 Cheung Sha Wan
+Road, Kowloon
+Enquire reported work injury cases or prescribed occupational
+disease cases:
+• Employees’ Compensation Division
+Operations – Team A
+Room 1605, 16/F, Southorn
+Centre, 130 Hennessy Road,
+Wanchai, Hong Kong
+• Employees’ Compensation Division
+Operations – Team B
+18/F, One Mong Kok Road
+Commercial Centre,
+1 Mong Kok Road, Kowloon
+• Employees’ Compensation Division
+Operations – Team C
+6/F, Tsuen Wan Government
+Offices, 38 Sai Lau Kok Road,
+Tsuen Wan, New Territories
+• Employees’ Compensation Division
+Operations – Team D
+Rooms 05-06, 23/F,
+KOLOUR•Tsuen Wan I ,
+68 Chung On Street,
+Tsuen Wan, New Territories
+Room 239, 2/F,
+Shatin Government Offices,
+1 Sheung Wo Che Road,
+Shatin, New Territories
+
+[page 5]
+Office Hours:
+Mondays to Fridays: 9:00 a.m. to 1:00 p.m.
+2:00 p.m. to 6:15 p.m.
+Saturdays, Sundays and Public Holidays: Closed
+For the latest office address, please visit the Labour Department’s website
+(https://www.labour.gov.hk) or call 2717 1771 (the hotline is handled by the “1823”).
+Office of the Employees’
+Compensation Division,
+Labour Department
+Address
+• Employees’ Compensation Division
+Operations – Team E
+Room 301, 3/F, North Tower,
+Tseung Kwan O Government
+Offices, 30 Tong Yin Street,
+Tseung Kwan O, New Territories
+Fatal Cases
+• Fatal Cases Office Room 601, 6/F, Harbour
+Building, 38 Pier Road, Central,
+Hong Kong
+
+[page 6]
+4 5
+Chapter 1
+Application of the Ordinance
+The Ordinance applies to all full-time or part-time employees who are
+employed under contracts of service or apprenticeship.
+The Ordinance also applies to employees employed in Hong Kong by
+local employers injured while working outside Hong Kong. Even if the employer
+is a person carrying on business outside Hong Kong, the Ordinance still applies
+if the employer submits to the jurisdiction of the Courts of Hong Kong and the
+employees have been recruited or engaged in Hong Kong.
+The Ordinance also applies to crew members of a Hong Kong ship,
+and any person employed in any capacity on board of a Hong Kong ship. If
+the employee is a crew member of a foreign ship and have been recruited
+or engaged in Hong Kong, even if the accident causing the personal injury
+occurred outside Hong Kong, the Ordinance still applies if the employer
+submits to the jurisdiction of the Courts of Hong Kong.
+The Ordinance does not apply to:
+1. casual employees (but still applies to part-time domestic helpers,
+employees employed either for the purposes of the employer’s trade or
+business, or for the purposes of any game or recreation and are engaged
+or paid through a club); or
+2. outworkers; or
+3. members of the employer’s family who live with him (but still applies if
+an employees’ compensation insurance policy under this Ordinance is in
+force in respect of such family members).
+Part I
+
+[page 7]
+Chapter 2
+Liability for Compensation for
+Work Injury and Occupational Disease
+Injury by Accident
+If an employee sustains an injury or dies as a result of an accident
+arising out of and in the course of his employment, his employer is in
+general liable to pay compensation under this Ordinance even if the employee
+might have committed acts of faults or negligence when the accident occurred.
+An accident to an employee resulting in injury or death is deemed to
+arise out of and in the course of his employment if it happens in the following
+circumstances:
+1. while travelling as a passenger to or from his place of work by a means
+of transport operated or arranged by his employer and other than as part
+of a public transport service;
+2. while travelling by a direct route between his residence and his place
+of work for the purpose of and in connection with his employment by
+driving or operating a means of transport arranged or provided by his
+employer;
+3. when Tropical Cyclone Warning Signal No. 8 or above or a Red/Black
+Rainstorm Warning Signal is in force, or within the period (including any
+extended period) during which “extreme conditions” that arise from a
+super typhoon or other natural disaster of a substantial scale exist as
+specified in an “extreme conditions” announcement, while travelling from
+his place of residence to his place of work by a direct route within a
+period of four hours before the time of commencement of his working
+hours for that day, or from his place of work to his place of residence
+within a period of four hours after the time of cessation of his working
+hours for that day; or
+4. while travelling, for the purpose of and in connection with his employment
+by any means of transport permitted by his employer, between Hong
+Kong and any place outside Hong Kong or between any other such
+places outside Hong Kong.
+
+[page 8]
+6 7
+An employer is not liable to pay compensation in the following circumstances:
+1. the injury does not result in permanent incapacity nor incapacitate the
+employee from earning full wages at his normal work;
+2. the injury is a deliberate self-injury;
+3. the death or incapacity results from an injury (including a specified
+occupational disease) which the employee has falsely represented to his
+employer that he was free from; or
+4. the injury is caused by an accident directly attributable to the employee’s
+addiction to drugs or his having been at the time of accident under the
+influence of alcohol and does not result in death or serious and permanent
+incapacity.
+Occupational Disease
+An employee suffering incapacity arising from an occupational disease
+is entitled to receive the same compensation as that payable to an employee
+injured in an accident arising out of and in the course of employment,
+if the disease is one due to the nature of any occupation in which he was
+employed at any time within the prescribed period immediately preceding the
+incapacity caused. The occupational diseases covered by the Ordinance and
+the prescribed period are specified in the Second Schedule annexed to the
+Ordinance (see Appendix 2).
+If the employee has been employed by more than one employer during
+the prescribed period in the same or in a similar occupation, all the employers
+may be responsible for paying compensation, though not necessarily to the
+same extent.
+
+[page 9]
+Before employing an employee in a trade or industry in which an
+occupational disease is prone to be contracted by employees, the employer
+may, at his own cost, require the employee to be medically examined by a
+registered medical practitioner. An employee refusing to undergo the medical
+examination may forfeit his entitlement to compensation in the event of death
+or incapacity caused by an occupational disease.
+An employee may still claim compensation under the Ordinance for a
+disease outside the Second Schedule if it is certified to be a personal injury by
+accident arising out of and in the course of employment.
+If an employee suspects being contracted an occupation disease
+specified in Second Schedule of the Ordinance, he should seek medical
+treatment as soon as possible. He should describe to his treating doctor full
+details of the illness, as well as the occupation, to facilitate the doctor to make
+diagnosis.
+
+[page 10]
+8 9
+Chapter 3
+Notification of Accidents
+Responsibility of an Employee
+An employee should notify the employer when he sustains a work
+injury or when he is confirmed that he has contracted an occupational
+disease specified by the Ordinance as soon as possible. Failure to
+give prompt notice may jeopardize and delay the claim of employees’
+compensation. Notice may be given orally or in writing to the employer or to
+the employee’s supervisor. The employer is presumed to have had notice of an
+accident if the employee dies on the employer’s premises.
+Responsibility of an Employer
+According to section 15 of the Ordinance, an employer must notify the
+Commissioner for Labour of any accident or prescribed occupational disease
+in the following manners, irrespective of whether the accident or the
+occupational disease gives rise to any liability to pay compensation:
+Resulting in Notice Period Form
+Work Injury
+Incapacity for a period not
+exceeding 3 days Within 14 days Form 2B
+Incapacity for a period
+exceeding 3 days Within 14 days
+Form 2
+Death Within 7 days
+Occupational
+Disease
+Incapacity Within 14 days
+Form 2A
+Death Within 7 days
+If the employer is not aware of the happening of the accident within the
+respective periods, he must notify the Commissioner for Labour within 7 or 14
+days, as the case may be, after the accident came to his knowledge.
+Any employer who, without reasonable excuse, delays or fails to
+give notice of an accident or makes or furnishes any false or misleading
+statement to the Commissioner for Labour is liable to prosecution and,
+upon conviction, to a maximum fine of $50,000.
+
+[page 11]
+Chapter 4
+Settlement of Employees’
+Compensation Claims
+1. Direct Payment by Employer
+If the accident incapacitates the employee for not more than 3 days and
+does not result in permanent incapacity, the employer should make payment
+for temporary incapacity (i.e. periodical payment for the sick leave required)
+on the same days as wages would have been payable to the employee. The
+employer should also pay the medical expenses concerned.
+2. Determination of Compensation by Agreement according
+to the Ordinance
+For the injury involving only temporary incapacity for a period exceeding
+3 days but not more than 7 days, the employer may directly agree with the
+employee as to the compensation payable under the Ordinance and make
+such payment on the same days or before which wages would have been
+payable to the employee. The employer should also pay the medical expenses
+concerned.
+3. “Certificate of Compensation Assessment” issued by the
+Commissioner for Labour
+For other cases that the employer and employee have no dispute,
+the Commissioner for Labour will assess the compensation payable under
+the Ordinance and issue to the employer and the employee a Certificate of
+Compensation Assessment (i.e. Form 5) stating the amount of compensation
+payable. If the injury results in temporary incapacity only, the certificate will be
+issued after medical clearance. According to section 16D(4) of the Ordinance,
+if in the opinion of the Commissioner that the injury would likely result in
+permanent total or partial incapacity, the employee concerned will be referred to
+the Employees’ Compensation Assessment Board for assessment and Form 5
+will be issued after the Certificate of Assessment (i.e. Form 7 or 8) is issued by
+the Assessment Board.
+
+[page 12]
+10 11
+Any objection to the compensation assessment by either party must
+be made in writing to the Commissioner for Labour within 14 days after the
+issue of Form 5, with a copy of the objection notice sent to the other party.
+On receipt of the objection notice, the Commissioner for Labour will review its
+assessment and issue a Certificate of Review of Compensation Assessment
+(i.e. Form 6) to both parties.
+The employer should pay the employee within 21 days from the date
+of issue of the certificate the amount of compensation, or any outstanding
+amount, stated in the certificate. The employer should also pay the medical
+expenses concerned.
+Note: Surcharge
+Section 16A of the Ordinance provides that if the employer fails, without
+reasonable excuse, to pay to the employee the amount of compensation within
+21 days after the issue of Certificate of Compensation Assessment (Form 5) or
+Certificate of Review of Compensation Assessment (Form 6), he is liable to pay
+to the employee a surcharge of $830 (Note) or 5% of the amount of compensation
+then remaining unpaid, whichever is the greater. The employer is liable to
+pay a further surcharge of $1,670 (Note) or 10% of the aggregate amount of
+compensation then remaining unpaid, whichever is the greater, if he still fails to
+pay within 3 months after the expiry of the payment period.
+Any employer who, without reasonable excuse, fails to pay the
+compensation or a surcharge is liable to prosecution and, upon
+conviction, to a maximum fine of $100,000.
+(Note) For work injuries caused by accidents happening or prescribed occupational diseases
+contracted on any date between 13 April 2023 and 16 April 2025, the surcharge and further
+surcharge are $780 and $1,580 respectively.
+
+[page 13]
+4. Determination by Court
+For cases which should be settled by direct payment (i.e. cases involving
+temporary incapacity for a period not exceeding 3 days) but remain unsettled,
+the injured employee may recover the compensation from the employer in the
+Small Claims Tribunal. Other compensation claims which cannot be settled in
+the above ways shall be determined by the District Court.
+IMPORTANT NOTE
+Section 14(1) of the Ordinance stipulates that an application to
+the Court for employees’ compensation has to be made within 24
+months from the date of the accident causing the injury. Therefore, if
+a case cannot be settled by the end of the 18 th month from the
+date of accident, the employee concerned should contact the
+Employees’ Compensation Division of the Labour Department
+as soon as possible. Subject to the decision of the employee, the
+Division would assist the employee either to approach the Legal Aid
+Department for further assistance, or to register his claim direct at the
+District Court.
+
+[page 14]
+1312 13
+Chapter 5
+Amount of Compensation
+Fatal Cases
+If an employee dies as a result of an accident (or a prescribed occupational
+disease) arising out of and in the course of employment, the employer shall be
+liable under the Ordinance to pay compensation for death to his surviving
+members of the family. The amount of compensation payable is calculated with
+reference to the age and monthly earnings of the deceased employee as below
+(please refer to Chapter 6 for details of the “monthly earnings”):
+Age of Deceased
+Employee Amount of Compensation
+Under 40 84 months’ earnings (Note 1)
+or minimum amount
+of compensation (Note 2) ,
+whichever is higher
+40 to under 56 60 months’ earnings (Note 1)
+56 or above 36 months’ earnings (Note 1)
+The compensation for death shall be apportioned among the deceased
+employee’s eligible members of the family in the manner set out in the Seventh
+Schedule of the Ordinance. The Commissioner for Labour or the Court may
+determine the amount of the compensation for death. The employer is also liable to
+reimburse funeral and medical attendance expenses on the deceased employee,
+up to a maximum of $98,950(Note 3), to the person who has paid such expenses.
+(Please refer to the leaflet on “Employees’ Compensation Ordinance Compensation for Fatal
+Cases” for details)
+Non-fatal Cases
+Permanent Incapacity
+Compensation payable for permanent total incapacity resulting from a
+work injury is calculated with reference to the age and monthly earnings of the
+injured employee at the time of accident as below:
+Age of Injured
+Employee Amount of Compensation
+Under 40 96 months’ earnings (Note 1)
+or minimum amount
+of compensation (Note 4) ,
+whichever is higher
+40 to under 56 72 months’ earnings (Note 1)
+56 or above 48 months’ earnings (Note 1)
+
+[page 15]
+Where permanent partial incapacity results from the injury, the amount
+of compensation is a percentage of the compensation payable for permanent
+total incapacity as is proportionate to the loss of earning capacity permanently
+caused by the injury.
+Amount of compensation due Percentage of permanent
+to permanent total incapacity × loss of earning capacity
+Employees’ Compensation Assessment Boards are appointed by the
+Commissioner for Labour to assess the percentage of the loss of earning
+capacity caused by injuries.
+If the injured employee suffers from permanent incapacity and is unable
+to perform the essential actions of life without the attention of another person,
+compensation for attention shall be payable. It should be:
+1. such an amount not exceeding $700,390 (Note 5) as the Court considers
+necessary; or
+2. an amount of $700,390 (Note 5) as specified by the Ordinance and set down
+in an agreement entered into by the employer and the injured employee
+and approved by the Commissioner for Labour.
+Temporary Incapacity
+Section 10 of the Ordinance stipulates that during the period of temporary
+incapacity, the employer shall pay the injured employee periodical payments
+at the rate of four-fifths of the difference between the employee’s monthly
+earnings at the time of the accident and his monthly earnings during the period
+of temporary incapacity.
+The periodical payments shall be payable on the same days as wages
+would have been payable. An employer who, without reasonable excuse,
+fails to pay within 7 days after the due day is liable to prosecution and,
+upon conviction, to a maximum fine of $100,000.
+IMPORTANT NOTE
+An employee should not work for another employer without the
+knowledge and consent of his employer during his sick leave period.
+Otherwise, he might be considered having committed a fraudulent act.
+
+[page 16]
+14 15
+A period of absence from duty certified to be necessary by a registered
+medical practitioner, a registered Chinese medicine practitioner, a registered
+dentist or an Employees’ Compensation Assessment Board is deemed to be a
+period of temporary incapacity.
+The employer shall pay compensation for death or permanent total or
+partial incapacity, as the case may be, in addition to any periodical payments
+previously due.
+When the employee’s temporary incapacity lasts more than 24 months
+or a further period that the Court may allow (that further period shall not be
+longer than 12 months), he shall no longer be entitled to periodical payments.
+The employee shall be regarded as having suffered permanent incapacity and
+compensation shall be assessed accordingly.
+Medical Expenses
+Section 10A of the Ordinance stipulates that unless an employer has
+provided adequate free medical treatment to the employee, the employer is
+liable to pay medical expenses (including fees for consultation, any surgical or
+therapeutic treatment, cost of nursing attendance, hospital accommodation
+as an in-patient, medicines, curative materials and medical dressings, etc) in
+respect of the period during which the employee receives medical treatment
+from a registered medical practitioner, a registered Chinese medicine
+practitioner or a registered dentist until the attending registered medical
+practitioner, registered Chinese medicine practitioner or registered dentist
+certifies that no further treatment is required.
+An employer is liable to pay the medical expenses in respect of medical
+treatment of any description received by an employee unless the free medical
+treatment provided by the employer covers medical treatment of the same
+description. Medical treatment given by, or under the supervision of, a
+registered medical practitioner, a registered Chinese medicine practitioner or a
+registered dentist shall be payable under the Ordinance. The employer is also
+liable to pay to the injured employee medical expenses in respect of medical
+treatment given by, or under the supervision of, a registered physiotherapist, a
+registered occupational therapist or a registered chiropractor.
+
+[page 17]
+The daily maximum of medical expenses payable by the employer are
+as follows:
+The medical expenses for each day of stay in the hospital where an
+employee is given medical treatment as an in-patient (Note 8) $300
+The medical expenses for each day on which an employee is given
+medical treatment other than as an in-patient in a hospital (Note 8) $500
+The medical expenses for each day on which an employee is given
+medical treatment both as an in-patient in a hospital and other than
+as an in-patient in a hospital (Note 8)
+$700
+Where the medical expenses for the medical treatment of an employee
+include the cost of medicines, the medicines shall be prescribed by a registered
+medical practitioner, a registered Chinese medicine practitioner or a registered
+dentist and prescribed for the direct treatment of the relevant injury.
+Unless the prescription contains a direction that the medicines are to be
+dispensed for a stated number of times and the medicines are dispensed in
+accordance with that direction, the employee shall not be reimbursed any cost
+of medicines relating to medicines dispensed pursuant to the same prescription
+on the subsequent occasions.
+An employer should pay the injured employee medical expenses within
+21 days after the employee has submitted a written request for the payment of
+medical expenses together with the receipts for payment of medical expenses.
+If payment is defaulted by the employer, the employee may recover the medical
+expenses from the employer in the Small Claims Tribunal or the District Court,
+depending on the defaulted amount.
+
+[page 18]
+16 17
+An employer is also liable to pay the medical expenses for medical
+treatment given outside Hong Kong in respect of a work injury sustained by
+an employee outside Hong Kong and arising out of and in the course of that
+employee’s employment. The daily maximum amount is the same as that for
+injuries sustained in Hong Kong. Where necessary, an employer or an employee
+may apply to the Commissioner for Labour for a certificate for determining the
+amount of medical expenses to be paid by the employer.
+Prostheses and Surgical Appliances
+According to the Ordinance, if an employee sustains an injury by accident
+arising out of and in the course of employment and requires a prosthesis or
+surgical appliance, his employer is liable to pay:
+1. the initial costs of supplying and fitting the prosthesis or surgical
+appliance, subject to a maximum amount of $47,310 (Note 6) ; and
+2. the probable costs of repair and renewal of such an item during a period
+of 10 years after the initial fitting of the item, subject to a maximum
+amount of $143,320 (Note 7) .
+The employer would not be liable to pay for the costs of such prostheses
+or surgical appliances unless:
+1. the employee submits himself to treatment by a registered medical
+practitioner, a registered Chinese medicine practitioner or a registered
+dentist;
+2. the prostheses or surgical appliances are supplied and fitted to the
+employee; and
+3. the item so supplied and fitted is manufactured or on sale in Hong Kong,
+and is certified by the Prostheses and Surgical Appliances Board as
+necessary and reasonable in cost.
+
+[page 19]
+If an employee sustains a work injury outside Hong Kong in an accident
+arising out of and in the course of his employment, and submits himself to
+medical treatment by or under the supervision of a person who is allowed to
+practise medicine, surgery or dentistry in the place where such medical treatment
+is given, the employer shall, if the Prostheses and Surgical Appliances Board
+approves, be liable to pay for the cost of supplying and fitting the prosthesis or
+surgical appliance required, subject to a maximum amount, which is the same
+as that for injuries sustained in Hong Kong.
+An employer is obliged to grant the necessary leave of absence from
+work to an employee who is required to attend a Prostheses and Surgical
+Appliances Board for purposes of examination or assessment. If the employer
+is the same employer of the employee at the time of accident, then the employer
+must pay the employee his normal wages for such absence from work.
+The Director of Health will take such steps as necessary to ensure the
+supply, fitting, repair and renewal of the prosthesis or surgical appliance to the
+injured employee. The Director may make claims from the employer for such
+costs.
+An employer is required to pay the amount claimed by the Director of
+Health within one month after the receipt of the request for payment, unless
+he disputes his liability to pay or the necessity or cost of the initial fitting or
+supplying of the item. Any dispute shall be determined by the Court. However,
+an employer is required to deposit the amount of the costs with the Director of
+Health until such dispute is determined. On the other hand, an employer may
+not dispute the necessity for repair and renewal of the item.
+
+[page 20]
+18 19
+Notes: Compensation Level of Various Items
+(Note 1)
+Monthly earnings are subject to a maximum for the purpose of
+calculating compensation for death and permanent total incapacity:
+• Work injuries caused by accidents happening or prescribed
+occupational diseases contracted on or after 17 April 2025:
+$38,670
+• Work injuries caused by accidents happening or prescribed
+occupational diseases contracted on any date between 13
+April 2023 and 16 April 2025: $36,550
+(Note 2)
+Minimum amount of compensation for death:
+• Work injuries caused by accidents happening or prescribed
+occupational diseases contracted on or after 17 April 2025:
+$514,510
+• Work injuries caused by accidents happening or prescribed
+occupational diseases contracted on any date between 13
+April 2023 and 16 April 2025: $486,300
+(Note 3)
+For fatal case that work injuries caused by accidents happening
+or prescribed occupational diseases contracted on any date
+between 13 April 2023 and 16 April 2025, any person who has
+paid funeral and/or medical attendance expenses is entitled to
+claim reimbursement from the employer of the deceased employee
+of such expenses not exceeding $94,690.
+(Note 4)
+Minimum amount of compensation payable for permanent total
+incapacity:
+• Work injuries caused by accidents happening or prescribed
+occupational diseases contracted on or after 17 April 2025:
+$584,220
+• Work injuries caused by accidents happening or prescribed
+occupational diseases contracted on any date between 13
+April 2023 and 16 April 2025: $552,190
+
+[page 21]
+(Note 5)
+For work injuries caused by accidents happening or prescribed
+occupational diseases contracted on any date between 13 April
+2023 and 16 April 2025, the maximum amount of compensation
+for employees requiring attention is $661,990.
+(Note 6)
+For work injuries caused by accidents happening or prescribed
+occupational diseases contracted between 13 April 2023 and 16
+April 2025, the maximum amount of initial costs of supplying and
+fitting the prosthesis or surgical appliance is $45,270.
+(Note 7)
+For work injuries caused by accidents happening or prescribed
+occupational diseases contracted between 13 April 2023 and 16
+April 2025, the maximum amount of probable costs of repair and
+renewal of prosthesis or surgical appliance during a period of 10
+years after the initial fitting of the item is $137,150.
+(Note 8)
+The daily maximum of medical expenses payable by the employer
+between 9 February 2018 and 31 December 2025:
+• the medical expenses for each day of stay in the hospital
+where an employee is given medical treatment as an inpatient is $300;
+• the medical expenses for each day on which an employee
+is given medical treatment other than as an in-patient in a
+hospital is $300;
+• the medical expenses for each day on which an employee is
+given medical treatment both as an in-patient in a hospital
+and other than as an in-patient in a hospital is $370.
+
+[page 22]
+20 21
+Chapter 6
+Calculation of Earnings
+(Note) The statutory minimum wage (SMW) comes into force on 1 May 2011. The Minimum Wage
+Ordinance does not apply to persons to whom the Employment Ordinance does not apply,
+live-in domestic workers (irrespective of their sex, race or nationality), specified student interns
+as well as work experience students during a period of exempt student employment. Should
+there be any enquiries on SMW, please call 2717 1771 (the hotline is handled by the “1823”)
+or visit offices of the Labour Relations Division of the Labour Department.
+For the purposes of the Ordinance, “earnings” includes:
+1. cash wages;
+2. the value of any privilege or benefit which can be estimated in cash,
+e.g. food, fuel or quarters supplied to the employee, if as a result of the
+accident he is deprived of any of them;
+3. overtime payments or other special remuneration, whether by way of
+bonus, allowance or otherwise, if it is of a constant nature; and
+4. customary tips.
+Under the Ordinance, “earnings” does not include items such as
+remuneration for intermittent overtime, casual payments of a non-recurrent
+nature, the value of travelling allowances or concession and the employer’s
+contributions to provident funds.
+The “monthly earnings” is to be taken as the earnings for the month
+immediately preceding the date of the accident, or the average monthly
+earnings for the previous 12 months of employment (or any lesser period if
+the employee has not been so long employed), whichever calculation is more
+favourable to the employee. According to the Minimum Wage Ordinance (Note) ,
+if the wages payable to an employee in respect of any wage period are less
+than the minimum wage, he is entitled to be paid the difference (i.e. additional
+remuneration). The employer is required to include the amount of additional
+remuneration (if any) in calculating the monthly earnings for the purpose of
+employees’ compensation.
+
+[page 23]
+According to section 11 of the Ordinance, where an employee suffers
+temporary incapacity for more than 12 (and 24) months after the date of
+accident, his monthly earnings should be adjusted for the purposes of
+calculating compensation at the end of the 12 (and 24) month period. Such an
+adjustment shall be made in accordance with the average rate of increase of
+the earnings in respect of other persons of similar earning capacity employed
+by the employer in similar employment. Where there is no such other persons,
+the rate of increase in the Consumer Price Index (A) at the end of the 12 (and
+24) month period after the date of accident shall be used.
+Where the injured employee was, at the time of the accident, under
+the age of 18 or employed as an apprentice, his monthly earnings shall, for
+the purposes of assessing compensation payable in the case of death or
+permanent incapacity, be assessed as if he were an adult employee or, in the
+case of an apprenticeship, as if he had completed his apprenticeship training.
+For the purpose of assessing compensation payable, the minimum rate
+of earnings is deemed to be $5,710 (Note) per month.
+(Note) For work injuries caused by accidents happening or prescribed occupational diseases
+contracted before 17 April 2025, the minimum rate of earnings is deemed to be $5,500 per
+month.
+
+[page 24]
+22 23
+Chapter 7
+Assessment of Permanent
+Loss of Earning Capacity
+The loss of earning capacity suffered by an injured employee permanently
+is assessed by a two-tier Employees’ Compensation Assessment Board
+appointed by the Commissioner for Labour. As stipulated in section 16D of
+the Ordinance, the Employees’ Compensation (Ordinary Assessment) Board,
+comprising 2 registered medical practitioners, registered Chinese medicine
+practitioners or registered dentists and a Labour Officer, is responsible for
+assessing the period of absence from duty necessary and the percentage
+of permanent loss of earning capacity permanently caused by the injury in
+accordance with the Ordinance. The First Schedule annexed to the Ordinance
+(see Appendix 1) specifies the percentage of loss of earning capacity for a
+number of injuries. In case the injury is not specified, the percentage shall be
+assessed having regard as far as possible to the First Schedule.
+Where it appears to an Employees’ Compensation (Ordinary Assessment)
+Board that such assessment is inadequate to reflect the loss of earning capacity
+permanently caused by the injury in the special circumstances of the injured
+employee, the claim may be referred to the Employees’ Compensation (Special
+Assessment) Board which will make its assessment having regard to the special
+circumstances of the employee, such as the nature of injury in relation to the
+nature of the employee’s former usual employment, qualifications, previous
+training and experience.
+The Assessment Board will issue to the employee and the employer a
+Certificate of Assessment (i.e. Form 7 or 8) stating the assessment result. Any
+objection to the assessment by either party must be made in writing within 14
+days after the issue of the certificate. On receipt of the objection notice, the
+Labour Department will arrange an Assessment Board to review its assessment.
+The Assessment Board will issue a Certificate of Review of Assessment
+(i.e. Form 9 or 10) upon completion of the review. Further objection by either
+party shall be made to the District Court within 6 months after the issue of the
+certificate.
+
+[page 25]
+When an employee has recovered or his medical condition is stabilized
+and is required by an Employees’ Compensation Assessment Board to attend
+an assessment, the employer has to grant him the necessary leave of absence
+from work. If the employer is the same employer of the employee at the time of
+accident, the employer must pay the employee his normal wages for the said
+absence from work.
+
+[page 26]
+2524 25
+Chapter 8
+Compulsory Insurance
+According to section 40 of the Ordinance, no employer shall employ any
+employee in any employment unless there is in force a policy of insurance to
+cover his liabilities under the laws (including the common law) for injuries at
+work in respect of all his employees, irrespective of the length of employment
+contract or working hours, full-time or part-time employment. Should there be
+any enquiries on legal liability, employers should seek professional legal advice.
+The minimum insurance cover should be for an amount:
+No. of Employees Amount of Insurance Cover per Event
+not more than 200 not less than $100 million
+more than 200 not less than $200 million
+An employer who fails to comply with the Ordinance to secure an
+insurance cover is liable to prosecution and, upon conviction, to a
+maximum fine of $100,000 and imprisonment for two years.
+Where a principal contractor has undertaken to perform any construction
+work, he may take out an insurance policy for an amount not less than $200
+million per event to cover his liability and that of his sub-contractor(s) under
+the laws (including the common law). The principal contractor and his subcontractor(s) of a project should clearly define their liability in this respect in
+writing.
+A “group of companies” as defined in section 2 of the Companies
+Ordinance may take out an insurance policy for an amount not less than $200
+million per event to cover the liability under the laws (including the common
+law) in respect of the companies in the group specified in the policy.
+
+[page 27]
+IMPORTANT NOTE
+The minimum amount of insurance cover specified in the Ordinance
+is not the maximum liability that the party concerned is required to bear
+under the laws (including the common law). The party concerned should
+therefore carefully assess the possible risk and consult insurers for
+professional advice on whether an insurance policy for an amount more
+than the minimum under the Ordinance should be taken out.
+An insured employer is required to display, in a conspicuous place on
+each of his premises where any employee is employed, a notice in both English
+and Chinese, showing the name of the employer, the name of the insurer, the
+policy number, the issue date of the policy, the commencement and expiry
+dates of the period of insurance, the number of employees insured and the
+amount of liability insured under the policy.
+When an employer who has been insured becomes liable to pay any
+sum under the laws (including the common law) to his employee in respect
+of a work injury, such sum shall become due and payable by the insurer,
+notwithstanding anything to the contrary in the policy of insurance. However,
+the insurer’s liability per event is only up to the amount insured under the policy.
+An employee or any other person (e.g. the deceased employee’s eligible
+members of the family) having a claim against the employer, is entitled to
+recover directly from the insurer the entitled amount in his own name, as though
+he were a party to the insurance policy. An employee can take proceedings
+against the insurer, even without taking proceedings against the employer, if:
+1. the employer cannot be readily located in Hong Kong;
+2. the employer is insolvent; or
+3. the insurer has disclaimed liability.
+
+[page 28]
+2726 27
+An employer shall, within 10 days after receiving the written request of
+an injured employee, produce for inspection to the employee the policy of
+insurance and all other documents relating to the policy.
+An employer shall not make any deduction from the earnings of an
+employee in order to defray the cost of insuring against his liability to
+pay compensation. An employer who contravenes this provision is liable
+to prosecution and, upon conviction, to a maximum fine of $10,000 and
+imprisonment for six months.
+
+[page 29]
+Medical Examination and Treatment
+Section 16 of the Ordinance stipulates that an employee who has
+given notice of an accident shall submit himself for medical examination by a
+registered medical practitioner, a registered Chinese medicine practitioner or
+a registered dentist named by his employer when this is offered within seven
+days of his giving notice. An employee who is in receipt of periodical payments
+from his employer shall submit himself for medical examination by a registered
+medical practitioner, a registered Chinese medicine practitioner or a registered
+dentist as required by his employer. If, however, any registered medical
+practitioner, registered Chinese medicine practitioner or registered dentist
+considers the employee unfit to attend medical examination, the employee
+must notify the employer, and the registered medical practitioner, registered
+Chinese medicine practitioner or registered dentist named by the employer will
+arrange an alternative time for medical examination. The employer has to pay
+all the expenses for medical examination arranged by his registered medical
+practitioner, registered Chinese medicine practitioner or registered dentist. If
+a medical examination is arranged for the injured employee, the examination
+shall be conducted by a practitioner from the medical treatment of the same
+description as that received by the employee.
+The employee is entitled to have his own registered medical practitioner,
+registered Chinese medicine practitioner or registered dentist present at the
+medical examination, but at his own expense.
+The registered medical practitioner, registered Chinese medicine
+practitioner or registered dentist named by the employer to conduct the
+examination shall prepare a report on the examination and send it to the
+employer at the employer’s expense.
+The employee may in writing request the employer to send to him, free
+of charge, a copy of the report. The employer is required to comply with such
+request before the later of the following –
+the expiry of 21 days after the employer receives the request; or
+the expiry of 14 days after the report concerned is received by the employer.
+Chapter 9
+Miscellaneous
+
+[page 30]
+28 29
+If an employer fails, without reasonable excuse, to send the employee
+a copy of the examination report, he is liable to prosecution and, upon
+conviction, to a maximum fine of $10,000.
+If an employee fails to submit himself for such examination, his right to
+compensation shall be suspended until such examination has taken place; an
+employee who fails without reasonable cause to attend for medical examination
+within 15 days of being required to do so may lose his right to compensation.
+An employee who is not attended by a registered medical practitioner,
+registered Chinese medicine practitioner or registered dentist must submit
+himself to free medical treatment given by a registered medical practitioner,
+registered Chinese medicine practitioner or registered dentist if so required
+by his employer. If the employee fails to submit himself for such treatment,
+or having submitted himself for such treatment disregards the instructions of
+the registered medical practitioner, registered Chinese medicine practitioner or
+registered dentist concerned, and the injury has been aggravated thereby, the
+compensation payable may be affected.
+Liability of the Principal Contractor
+Section 24 of the Ordinance provides that when an employee of a subcontractor is injured at work, the principal contractor shall be liable for any
+claim of compensation made by the injured employee under the Ordinance.
+The principal contractor may, however, take action to recover from the subcontractor any payment which he is required to make.
+The injured employee employed by a sub-contractor may issue a
+written request to the sub-contractor to supply the name and address
+of the principal contractor. A sub-contractor who, without reasonable
+excuse, fails to supply the above information within 7 days after the
+date of issue of the written request, is liable to prosecution and, upon
+conviction, to a maximum fine of $50,000.
+
+[page 31]
+The injured employee employed by a sub-contractor shall, before making
+any claim or application by virtue of section 24 of the Ordinance against a
+principal contractor, serve on the principal contractor a notice in writing stating –
+(a) the name and address of the employee;
+(b) the name and address of the sub-contractor by whom he is employed;
+(c) the address of the place of employment of the employee;
+(d) the particulars of the accident and the injury suffered; and
+(e) the amount of compensation to be claimed.
+Claims for Common Law Damages
+Against a Third Party Against an Employer
+By an employee
+When an employee is injured in
+circumstances which create a
+legal liability in some person other
+than the employer, he may take
+proceedings to recover damages
+from the third party as well as
+claiming employees’ compensation
+against the employer.
+By an employer
+Under similar situation, an employer
+who is liable to pay compensation
+may take action against a third
+party to recover the employees’
+compensation, indemnity or any
+sum payable to the employee
+contractually.
+The Ordinance does not limit the
+civil liability of an employer. Thus,
+when an injury to an employee
+is caused by the negligence or
+other wrongful act of an employer,
+the employee may recover
+compensation and also sue
+for damages, but the damages
+awarded shall be reduced by
+the value of the employees’
+compensation paid or payable
+under the Ordinance.
+
+[page 32]
+3130 31
+Contracting Out
+According to section 31 of the Ordinance, any contract or agreement
+which removes or reduces the employer’s liability to pay employees’
+compensation under the Ordinance is null and void.
+Employment Protection
+Section 48 of the Ordinance stipulates that, without the consent of
+the Commissioner for Labour, an employer who terminates, or gives
+notice to terminate, the contract of service of an employee under the
+following circumstances, is liable to prosecution and, upon conviction,
+to a maximum fine of $100,000:
+1. where the employee sustained an injury giving rise to temporary
+incapacity not exceeding 3 days:
+before the period of temporary incapacity has expired and the
+compensation has been paid; and
+2. where the employee sustained an injury giving rise to temporary
+incapacity exceeding 3 days or permanent incapacity:
+i. before the Commissioner for Labour has issued the Certificate of
+Compensation Assessment (Form 5); or
+ii. before the employer agrees with the injured employee as to the
+compensation payable under the Ordinance; or
+iii. before an Employees’ Compensation Assessment Board has
+issued the Certificate of Assessment (Form 7 or 8) or the Certificate
+of Review of Assessment (Form 9 or 10),
+whichever occurs first.
+
+[page 33]
+Appendix 1 List of injuries
+(First Schedule of the Employees’ Compensation Ordinance)
+1. Loss of 2 limbs ....................................................................... 100
+2. Loss of both hands or of all fingers and both thumbs ................ 100
+3. Loss of both feet ..................................................................... 100
+4. Total loss of sight .................................................................... 100
+5. Total paralysis ......................................................................... 100
+6. Injuries resulting in being permanently bedridden ...................... 100
+7. Paraplegia ............................................................................... 100
+8. Any other injury causing permanent total disablement ............... 100
+9. Loss of arm at shoulder ........................................................... 75 (80)*
+10. Ankylosis of shoulder joint —
+in optimum position ......................................................... 35
+in worst position ............................................................... 55
+11. Loss of arm between elbow and shoulder ................................ 75 (80)*
+12. Loss of arm at elbow ............................................................... 75 (80)*
+13. Ankylosis of the elbow joint —
+in optimum position .......................................................... 30
+in worst position ............................................................... 50
+14. Loss of arm between wrist and elbow ...................................... 70 (75)*
+15. Loss of hand at wrist ............................................................... 70 (75)*
+16. Ankylosis of wrist joint —
+in optimum position .......................................................... 30
+in worst position ............................................................... 40
+17. Loss of 4 fingers and thumb of one hand ................................. 70 (75)*
+18. Loss of 4 fingers of one hand .................................................. 60 (65)*
+19. Loss of thumb —
+both phalanges ................................................................ 30 (32)*
+one phalanx ..................................................................... 20 (22)*
+guillotine loss of tip without loss of bone ........................... 8
+20. Ankylosis of —
+interphalangeal joint of the thumb ..................................... 4
+metacarpophalangeal joint of the thumb ........................... 8
+all these 2 joints of the thumb ........................................... 12
+Item
+Percentage of loss
+of earning capacity
+*Figures in brackets refer to percentage applicable to preferred hand.
+
+[page 34]
+32 33
+21. Loss of index finger —
+3 phalanges ..................................................................... 14 (15)*
+2 phalanges ..................................................................... 11 (12)*
+one phalanx ..................................................................... 9 (10)*
+guillotine amputation of tip without loss of bone ................ 4
+22. Ankylosis of —
+distal interphalangeal joint of the index finger ..................... 2
+proximal interphalangeal joint of the index finger ................ 3
+metacarpophalangeal joint of the index finger .................... 4
+all these 3 joints of the index finger ................................... 9
+23. Loss of middle finger —
+3 phalanges ..................................................................... 12
+2 phalanges ..................................................................... 9
+one phalanx ..................................................................... 7
+guillotine amputation of tip without loss of bone ................ 2
+24. Ankylosis of —
+distal interphalangeal joint of the middle finger ................... 2
+proximal interphalangeal joint of the middle finger .............. 2
+metacarpophalangeal joint of the middle finger .................. 3
+all these 3 joints of the middle finger ................................. 7
+25. Loss of ring finger —
+3 phalanges ..................................................................... 8
+2 phalanges ..................................................................... 6
+one phalanx ..................................................................... 5
+guillotine amputation of tip without loss of bone ................ 2
+26. Ankylosis of —
+distal interphalangeal joint of ring finger ............................. 1
+proximal interphalangeal joint of ring finger ........................ 2
+metacarpophalangeal joint of ring finger ............................ 2
+all these 3 joints of the ring finger ...................................... 5
+27. Loss of little finger —
+3 phalanges ..................................................................... 7
+2 phalanges ..................................................................... 6
+one phalanx ..................................................................... 5
+guillotine amputation of tip without loss of bone ................ 2
+Item
+Percentage of loss
+of earning capacity
+*Figures in brackets refer to percentage applicable to preferred hand.
+Appendix 1 (cont.)
+
+[page 35]
+Appendix 1 (cont.)
+28. Ankylosis of —
+distal interphalangeal joint of little finger ............................ 1
+proximal interphalangeal joint of little finger ........................ 1
+metacarpophalangeal joint of little finger ............................ 2
+all these 3 joints of the little finger ..................................... 4
+28A. In the case of a loss of a whole finger of one hand, the following
+percentages shall be awarded in addition to those provided for
+the loss of a single finger. In this item “finger” does not include
+“thumb”. These additional percentages shall be awarded when
+2 or more fingers of the same hand are lost in the same injury;
+or when one or more fingers of the same hand are lost in the
+same injury to a hand of which one or more fingers were lost in
+a previous injury, whether or not the previous injury was work
+related or whether compensation was paid or is payable for the
+loss —
+loss of a second finger of the hand ................................... 6 (7)*
+loss of a third finger of the hand ....................................... 6 (7)*
+loss of the last finger of the hand ...................................... 7 (9)*
+29. Loss of metacarpals —
+first (additional) ................................................................ 8
+second, third, fourth or fifth (additional) ............................. 3
+30. Loss of leg at hip .................................................................... 80
+31. Loss of leg at or above knee ................................................... 75
+32. Ankylosis of hip joint —
+in optimum position ......................................................... 35
+in worst position ............................................................... 50
+33. Loss of leg below knee ............................................................ 65
+34. Ankylosis of knee joint —
+in optimum position ......................................................... 25
+in worst position .............................................................. 35
+35. Loss of foot ............................................................................ 55
+36. Ankylosis of ankle joint —
+in optimum position ......................................................... 15
+in worst position .............................................................. 25
+Item
+Percentage of loss
+of earning capacity
+*Figures in brackets refer to percentage applicable to preferred hand.
+
+[page 36]
+3534 35
+Appendix 1 (cont.)
+37. Loss of toes —
+all of one foot .................................................................. 20
+great, both phalanges ...................................................... 14
+great, one phalanx ........................................................... 4
+other than great, for each one toe lost .............................. 3
+38. Loss of sight of one eye ........................................................... 50
+39. Loss of hearing of one ear ....................................................... 30
+40. Total loss of hearing, both ears ................................................ 100
+41. Loss or deformity of outer ear .................................................. 2
+42. Loss of entire nose .................................................................. 25
+43. Apparent deformity of nose ...................................................... 5
+44. Loss of spleen ......................................................................... 5
+45. Loss of one kidney —
+if the other kidney is normal .............................................. 15
+if the other kidney is abnormal .......................................... 65 - 90
+46. Urethral injury —
+if urethral stricture requires dilation less frequently than
+once every 2 weeks .......................................................... 5
+if urethral stricture requires dilation once every 2 weeks or
+more frequently ................................................................ 10 - 20
+if urethra is severed .......................................................... 20
+47. Impairment of urinary bladder function —
+impairment in form of urgency or other mild urinary
+bladder disorder ............................................................... 5 - 12
+good reflex activity without voluntary control ..................... 13 - 22
+poor reflex activity without voluntary control ...................... 23 - 37
+no reflex and no voluntary control ..................................... 38 - 60
+48. Impairment of anorectal function —
+limited voluntary control .................................................... 0 - 7
+as reflex regulation but no voluntary control ...................... 8 - 17
+no reflex regulation and no voluntary control ..................... 18 - 25
+Item
+Percentage of loss
+of earning capacity
+
+[page 37]
+Appendix 2 List of occupational diseases
+(Second Schedule of the Employees’ Compensation Ordinance)
+A. CAUSED BY PHYSICAL AGENTS
+A1 Inflammation, ulceration
+or malignant disease of
+the skin or subcutaneous
+tissues or of the bones,
+or blood dyscrasia, or
+cataract, due to electromagnetic radiations (other
+than radiant heat), or to
+ionising particles
+Any occupation involving exposure to
+electro-magnetic radiations other than
+radiant heat, or to ionising particles.
+10 years.
+A2 Heat cataract Any occupation involving frequent or
+prolonged exposure to rays from molten or
+red-hot material.
+3 years.
+A3 Dysbarism, including
+decompression sickness,
+barotrauma and
+osteonecrosis
+Any occupation involving subjection to
+compressed or rarefied air or other gases or
+gaseous mixtures.
+1 year.
+In the case
+of arthritis –
+5 years.
+A4 Cramp of the hand or
+forearm due to repetitive
+movements
+Any occupation involving prolonged periods
+of handwriting, typing or other repetitive
+movements of the fingers, hand or arm.
+1 year.
+A5 Subcutaneous cellulitis of
+the hand (Beat hand)
+Any occupation involving manual labour
+causing severe or prolonged friction or
+pressure on the hand.
+1 year.
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+
+[page 38]
+36 37
+A6 Bursitis or subcutaneous
+cellulitis arising at or about
+the knee due to severe or
+prolonged external friction
+or pressure at or about the
+knee (Beat knee)
+Any occupation involving manual labour
+causing severe or prolonged external friction
+or pressure at or about the knee.
+1 year.
+A7 Bursitis or subcutaneous
+cellulitis arising at or about
+the elbow due to severe or
+prolonged external friction
+or pressure at or about the
+elbow (Beat elbow)
+Any occupation involving manual labour
+causing severe or prolonged external friction
+or pressure at or about the elbow.
+1 year.
+A8 Traumatic inflammation of
+the tendons of the hand or
+forearm (including elbow),
+or of the associated
+tendon sheaths
+Any occupation involving manual labour, or
+frequent or repeated movements of the hand
+or wrist.
+1 year.
+A9 Carpal tunnel syndrome Any occupation involving repetitive use of
+hand-held powered tools whose internal
+parts vibrate so as to transmit that vibration
+to the hand, but excluding those which are
+solely powered by hand.
+1 year.
+B. CAUSED BY BIOLOGICAL AGENTS
+B1 Anthrax Any occupation involving contact with animals
+infected with anthrax or the handling
+(including the loading and unloading or
+transport) of animal products or residues.
+1 month.
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+Appendix 2 (cont.)
+
+[page 39]
+Appendix 2 (cont.)
+B2 Glanders Any occupation involving contact with
+equine animals or their carcasses.
+1 month.
+B3 Infection by leptospira Any occupation involving -
+(a) work in places which are, or are liable to
+be, infested by rats, field mice or voles,
+or other small mammals;
+(b) work at dog kennels or the care or
+handling of dogs;
+(c) contact with bovine animals or their meat
+products or pigs or their meat products
+3 months.
+B4 Pulmonary disease
+due to the inhalation
+of the dust of mouldy
+hay or other mouldy
+vegetable produce,
+and characterized by
+symptoms and signs
+attributable to a reaction
+in the peripheral part of
+the bronchopulmonary
+system, and giving rise to
+a defect in gas exchange
+(Farmer’s lung)
+Any occupation involving exposure to
+the dust of mouldy hay or other mouldy
+vegetable produce by reason of
+employment -
+(a) in agriculture, horticulture or forestry; or
+(b) loading or unloading or handling in
+storage such hay or other vegetable
+produce; or
+(c) handling bagasse.
+1 year.
+B5 Infection by organisms of
+the genus brucella
+Any occupation involving contact with -
+(a) animals infected by brucella, or their
+carcasses or parts thereof, or their
+untreated products; or
+(b) laboratory specimens or vaccines of, or
+containing, brucella.
+1 year.
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+
+[page 40]
+38 39
+Appendix 2 (cont.)
+B6 Tuberculosis Any occupation involving close and
+frequent contacts with a source or sources
+of tuberculosis infection by reason of
+employment -
+(a) in the medical treatment or nursing
+of a person or persons suffering from
+tuberculosis, or in a service ancillary to
+such treatment or nursing;
+(b) in attendance upon a person or persons
+suffering from tuberculosis, where the
+need for such attendance arises by
+reason of physical or mental infirmity;
+(c) as a research worker engaged in research
+in connection with tuberculosis;
+(d) as a laboratory worker, pathologist,
+or post-mortem worker, where
+the occupation involves working
+with materials which are a source
+of tuberculosis infection, or in any
+occupation ancillary to such employment.
+6 months.
+B7 Parenterally contracted
+viral hepatitis
+Any occupation involving contact with -
+(a) human blood or human blood products;
+or
+(b) a source of viral hepatitis.
+6 months.
+B8 Infection by streptococcus
+suis
+Any occupation involving contact with pigs
+infected by streptococcus suis, or with the
+carcasses, products or residues of pigs so
+infected.
+1 month.
+B9 Avian chlamydiosis Any occupation involving contact with
+birds infected with chlamydia psittaci, their
+remains or untreated products.
+1 month.
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+
+[page 41]
+Appendix 2 (cont.)
+B10 Legionnaires’ disease Any occupation involving the repair,
+maintenance or service of -
+(a) cooling systems that use fresh water; or
+(b) hot water service systems.
+1 month.
+B11 Severe acute respiratory
+syndrome
+Any occupation involving close and frequent
+contacts with a source or sources of severe
+acute respiratory syndrome infection by
+reason of employment –
+(a) in the medical treatment or nursing of
+a person suffering from severe acute
+respiratory syndrome, or in a service
+ancillary to that treatment or nursing;
+(b) in attending to a person suffering from
+severe acute respiratory syndrome,
+where the need for attendance arises by
+reason of the person’s physical or mental
+infirmity;
+(c) in identifying, detecting, tracing, isolating,
+detaining, supervising or surveillance
+of a person suffering from severe acute
+respiratory syndrome;
+(d) as a research worker engaged in
+research in connection with severe acute
+respiratory syndrome, or in a service
+ancillary to that research; or
+(e) as a laboratory worker, pathologist,
+post-mortem worker or funeral services
+worker, where the employment involves
+the handling of any human body or other
+materials that are a source of severe
+acute respiratory syndrome infection, or
+in a service ancillary to that handling.
+1 month.
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+
+[page 42]
+40 41
+Appendix 2 (cont.)
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+B12 Avian influenza A Any occupation involving close and frequent
+contacts with a source or sources of
+avian influenza A infection by reason of
+employment –
+(a) as a worker engaged in the handling of
+poultry or birds or their uncooked remains
+or residues, or their untreated products,
+that are a source of avian influenza A
+infection, or in a service ancillary to that
+handling;
+(b) as a research worker engaged in research
+in connection with avian influenza A, or in
+a service ancillary to that research; or
+(c) as a laboratory worker engaged in the
+handling of materials that are a source of
+avian influenza A infection, or in a service
+ancillary to that handling.
+14 days.
+C. CAUSED BY CHEMICAL AGENTS
+C1 Poisoning by lead or a
+compound of lead
+Any occupation involving the use or handling
+of, or exposure to the fumes, dust or
+vapour of, lead or a compound of lead, or a
+substance containing lead.
+2 years.
+In the case
+of nephritis –
+4 years.
+C2 Poisoning by manganese
+or a compound of
+manganese
+Any occupation involving the use or
+handling of, or exposure to the fumes, dust
+or vapour of, manganese or a compound
+of manganese, or a substance containing
+manganese.
+2 years.
+
+[page 43]
+Appendix 2 (cont.)
+C3 Poisoning by phosphorus
+or an inorganic compound
+of phosphorus or the
+anti-cholinesterase or
+pseudo anti-cholinesterase
+action of organic
+phosphorus compounds
+Any occupation involving the use or handling
+of, or exposure to the fumes, dust or
+vapour of, phosphorus or a compound of
+phosphorus, or a substance containing
+phosphorus.
+3 years.
+C4 Poisoning by arsenic or a
+compound of arsenic
+Any occupation involving the use or handling
+of, or exposure to the fumes, dust or vapour
+of, arsenic or a compound of arsenic, or a
+substance containing arsenic.
+1 year.
+C5 Poisoning by mercury or a
+compound of mercury
+Any occupation involving the use or handling
+of, or exposure to the fumes, dust or vapour
+of, mercury or a compound of mercury, or a
+substance containing mercury.
+2 years.
+C6 Poisoning by carbon
+bisulphide
+Any occupation involving the use or handling
+of, or exposure to the fumes, or vapour of,
+carbon bisulphide or a compound of carbon
+bisulphide, or a substance containing carbon
+bisulphide.
+1 year.
+C7 Poisoning by benzene or a
+homologue of benzene
+Any occupation involving the use or
+handling of, or exposure to the fumes of,
+or vapour containing, benzene or any of its
+homologues.
+1 year.
+C8 Poisoning by a nitro- or
+amino- or chloroderivative of benzene or of
+a homologue of benzene,
+or poisoning by nitrochlorobenzene
+Any occupation involving the use or
+handling of, or exposure to the fumes of,
+or vapour containing, a nitro- or amino- or
+chloro-derivative of benzene or nitrochlorobenzene.
+1 year.
+In the case
+of neoplasm -
+10 years.
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+
+[page 44]
+42 43
+Appendix 2 (cont.)
+C9 Poisoning by dinitrophenol
+or a homologue or by
+substituted dinitrophenols
+or by the salts of such
+substances
+Any occupation involving the use or handling
+of, or exposure to the fumes of, or vapour
+containing, dinitrophenol or a homologue
+or substituted dinitrophenols or the salts of
+such substances.
+1 year.
+C10 Poisoning by halogen
+derivatives of
+hydrocarbons of the
+aliphatic series
+Any occupation involving the use or
+handling of, or exposure to the fumes of, or
+vapour containing, halogen derivatives of
+hydrocarbons of the aliphatic series.
+1 year.
+C11 Poisoning by diethylene
+dioxide (dioxan)
+Any occupation involving the use or handling
+of, or exposure to the fumes of, or vapour
+containing, diethylene dioxide (dioxan).
+1 year.
+C12 Poisoning by chlorinated
+naphthalene
+Any occupation involving the use or handling
+of, or exposure to the fumes of, or dust or
+vapour containing, chlorinated naphthalene.
+1 year.
+C13 Poisoning by oxides of
+nitrogen
+Any occupation involving the use or handling
+of, or exposure to the fumes of, or dust or
+vapour containing, oxides of nitrogen.
+1 year.
+C14 Poisoning by beryllium or a
+compound of beryllium
+Any occupation involving the use or handling
+of, or exposure to the fumes, dust or vapour
+of, beryllium or a compound of beryllium or a
+substance containing beryllium.
+1 year.
+C15 Poisoning by cadmium Any occupation involving the use or handling
+of, or exposure to the dust or fumes of,
+cadmium.
+1 year.
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+
+[page 45]
+Appendix 2 (cont.)
+C16 Dystrophy of the cornea
+(including ulceration of the
+corneal surface) of the eye
+Any occupation involving the use or handling
+of, or exposure to, arsenic, tar, pitch,
+bitumen, mineral oil (including paraffin),
+soot or any compound, product, (including
+quinone or hydroquinone) or residue of any
+of these substances.
+1 year.
+C17 Primary epitheliomatous
+cancer of the skin
+Any occupation involving the use or handling
+of, or exposure to, arsenic, tar, pitch,
+bitumen, mineral oil (including paraffin), soot
+or any compound, product, or residue of any
+of these substances.
+10 years.
+C18 Chrome ulceration
+including perforation of
+nasal septum
+Any occupation involving the use or handling
+of chromic acid, chromate or bichromate of
+ammonium, potassium, sodium or zinc, or
+any preparation or solution containing any of
+these substances.
+1 year.
+C19 Primary neoplasm of
+the epithelial lining of
+the urinary tract, (renal
+pelvis, ureter, bladder
+and urethra) including
+papilloma, carcinomain-situ and invasive
+carcinoma
+Any occupation involving the production,
+use or handling of alpha-naphthylamine,
+beta-naphthylamine or methylene-bis- orthochloraniline, or diphenyl substituted by at
+least one nitro or primary amino group or by
+at least one nitro and primary amino group
+(including benzidine) and any of the above
+substances if further ring substituted by
+halogeno methyl or methoxyl group and the
+salts of any of the above substances and the
+production of auramine and magenta.
+20 years.
+C20 Peripheral poly-neuropathy Any occupation involving the production,
+use or handling of, or exposure to, any
+physical form of or any preparation or solution
+containing n-Hexane or methyl-n-butyl ketone.
+1 year.
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+
+[page 46]
+44 45
+Appendix 2 (cont.)
+C21 Localised new growth of
+the skin, papillomatous or
+keratotic
+Any occupation involving the use or handling
+of, or exposure to, arsenic, tar, pitch,
+bitumen, mineral oil (including paraffin), soot
+or any compound, product or residue of any
+of these substances.
+10 years.
+C22 Occupational vitiligo Any occupation involving the use or handling
+of, or exposure to, paratertiary-butyl phenol,
+paratertiary-butyl catechol, para-amylphenol, hydroquinone or the monobenzyl or
+monobutyl ether of hydroquinone.
+1 year.
+D. CAUSED BY MISCELLANEOUS AGENTS
+D1 Inflammation or ulceration
+of the skin produced by
+dust, liquid or vapour
+(including the condition
+known as chloracne
+but excluding chrome
+ulceration)
+Any occupation involving exposure to dust,
+liquid or vapour, capable of irritating the skin.
+1 year.
+D2 Inflammation or ulceration
+of the mucous membrane
+of the upper respiratory
+passages or mouth
+produced by dust, liquid
+or vapour
+Any occupation involving exposure to dust,
+liquid or vapour.
+1 year.
+D3 Carcinoma of the nasal
+cavity or associated air
+sinuses (nasal carcinoma)
+Any occupation involving the manufacture or
+repair of wooden goods or the manufacture
+or repair of footwear or components of
+footwear made wholly or partly of leather or
+fibre board.
+10 years.
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+
+[page 47]
+Appendix 2 (cont.)
+D4 Byssinosis Any occupation involving exposure to raw
+cotton dust.
+1 year.
+D5 Occupational asthma Any occupation involving the use or handling
+of, or exposure to, any of the following
+agents which may irritate or sensitise the
+respiratory system –
+(a) isocyanates;
+(b) platinum salts;
+(c) fumes or dusts arising from the
+manufacture, transport or use of
+hardening agents (including epoxy
+resin curing agents) based on phthalic
+anhydride, trimellitic anhydride or
+triethylenet-etramine;
+(d) fumes arising from the use of rosin as a
+soldering flux;
+(e) formaldehyde;
+(f) proteolytic enzymes;
+(g) animals or insects used for the
+purposes of research or education or in
+laboratories;
+(h) dusts arising from the sowing, cultivation,
+harvesting, drying, handling, milling,
+transport or storage of barley, oats, rye,
+wheat or maize, or the handling , milling,
+transport or storage of meal or flour
+made therefrom.
+(i) any other sensitising agent inhaled at
+work.
+1 month.
+Item Description of
+occupational disease
+Nature of trade,
+industry or process
+Prescribed period
+for purposes of
+Section 32
+
+[page 48]
+46 47
+Frequently Asked Questions on
+Common Employees’ Compensation Issues
+Part II
+(I) Compulsory Insurance
+Q1 What should an employer take note of when taking out an
+employees’ compensation insurance policy?
+A1 When taking out an employees’ compensation insurance policy, apart
+from ensuring the minimum insurance cover meets the statutory
+requirements, employers should also take note of the followings:
+No deduction should be made from the earnings of an employee for
+defraying the cost of taking out employees’ compensation insurance
+policies;
+Ensuring that all employees are covered by the insurance policy and
+that when the number of employees increases, the employer should
+notify the insurer accordingly as soon as possible;
+Giving a detailed declaration to the insurer on the annual earnings
+and job duties of individual employees;
+Listing the usual work locations of employees;
+Stating specifically those employees who are required to work outside
+Hong Kong or take overseas business trips;
+Stating specifically whether any work is sub-contracted to subcontractor and stating clearly whether the employees of the subcontractor are covered by the policy; and
+Bewaring of the expiry date of the insurance policy and taking action
+to renew the insurance policy in advance to ensure that the insurance
+cover is not interrupted and to avoid contravention of the Ordinance.
+Q2 Is an employer required to notify his insurer when his employee
+sustains a work injury?
+A2 The employer must notify the Commissioner for Labour of any work
+accident or prescribed occupational disease by Form 2, Form 2A or
+Form 2B, as the case may be. Work injury cases should be reported
+in 14 days’ time while the fatal cases in 7 days’ time;
+
+[page 49]
+The employer should notify the insurer (not the insurance broker) as
+soon as possible, within the stipulated period and in the specified
+format (in writing or by specified form) required by the insurer;
+The employer should also keep a record of the periodical payments (i.e.
+payments for sick leaves for work injury) paid to the injured employee,
+the original copies of the Certificate of Compensation Assessment
+(Form 5) issued by the Labour Department and / or the Certificate
+of Assessment (Form 7) issued by the Employees’ Compensation
+Assessment Board, medical certificates and receipts in respect of
+medical expenses properly; and submit the relevant documents to
+the insurer within the stipulated period and in the specified format
+required by the insurer for indemnifying the amount of compensation
+already paid to the injured employee; and
+On receiving any legal documents, including an order or a summons
+issued by the Court, the employer should notify his insurer the soonest
+possible or seek legal advice.
+(II) Notification of Accident
+Q3 What should an employee do if he suspects the employer has not
+yet reported his work injury or prescribed occupational disease to
+the Commissioner for Labour?
+A3 If the injured employee has doubt as to whether his employer has
+reported the work injury or the prescribed occupational disease to the
+Commissioner for Labour, he could notify the Employees’ Compensation
+Division (Operations) of the Labour Department at its Central Processing
+Team office or a nearby office. As for fatal cases, family members of
+the deceased employee may approach the Fatal Cases Office (see
+“Introduction” for the addresses). If it is found that the notification from
+the employer has not yet been received by the office, the office will, upon
+receipt of the notification of the injured employee or family members of
+the deceased employee, write to the employer to explain the requirement
+of the Employees’ Compensation Ordinance and ask the employer to
+report the work injury or the prescribed occupational disease as soon as
+possible.
+
+[page 50]
+(III) Fatal or Non-Fatal Cases outside Hong Kong
+Q4 If an employee sustains a work injury outside Hong Kong, would
+he be covered by the Employees’ Compensation Ordinance?
+A4 According to the Employees’ Compensation Ordinance, if an employee
+sustains an injury or dies as a result of an accident arising out of and
+in the course of his employment, his employer is in general liable to
+pay compensation under this Ordinance even if the employee might have
+committed acts of faults or negligence when the accident occurred.
+The Ordinance applies to employees employed in Hong Kong by local
+employers injured while working outside Hong Kong. Besides, an accident
+to an employee resulting in injury or death is deemed to arise out of and
+in the course of his employment if it happens while the employee is
+travelling, for the purpose of and in connection with his employment by
+any means of transport permitted by his employer, between Hong Kong
+and any place outside Hong Kong or between any other such places
+outside Hong Kong.
+Even if the employer is a person carrying on business outside Hong
+Kong, or a crew member is working on a foreign ship, the Ordinance
+still applies if the employers submit to the jurisdiction of the Courts of
+Hong Kong and the employees / crew members have been recruited or
+engaged in Hong Kong.
+Q5 In respect of the employees’ compensation, are there any
+differences between employees who suffered work injury within
+and outside Hong Kong?
+A5 No difference basically, but employees injured outside Hong Kong should
+take note of the followings:
+Foreign compensation: compensation payable under the Employees’
+Compensation Ordinance to an employee shall be reduced by the
+amount of any foreign compensation paid to him in respect of the
+same injury.
+
+[page 51]
+Periodical Payments: the employer shall pay the injured employee,
+during the period of temporary incapacity, periodical payments
+at the rate of four-fifths of the difference between the employee’s
+monthly earnings at the time of the accident and his monthly earnings
+during the period of temporary incapacity. Temporary incapacity
+refers to a period of absence from duty certified to be necessary
+by a registered medical practitioner, a registered Chinese medicine
+practitioner, a registered dentist or an Employees’ Compensation
+Assessment Board is deemed to be a period of temporary incapacity.
+For employees receiving medical treatment outside Hong Kong, the
+temporary incapacity shall be determined by the Assessment Board.
+Paper Medical Clearance is inapplicable for such cases.
+Medical Expenses: an employer is also liable to pay the medical
+expenses for medical treatment given outside Hong Kong in respect
+of a work injury sustained by an employee outside Hong Kong and
+arising out of and in the course of that employee’s employment. The
+daily maximum amount is the same as that for injuries sustained
+in Hong Kong. The medical treatment shall be the treatment
+given by, or under the supervision of, a person who is allowed to
+practise medicine, surgery, dentistry, chiropractic, physiotherapy or
+occupational therapy in the place where such medical treatment is
+given. Where necessary, an employer or an employee may apply to
+the Commissioner for Labour for a certificate for determining the
+amount of medical expenses to be paid by the employer.
+Cost of Prostheses and Surgical Appliances: if an employee
+sustains a work injury outside Hong Kong in an accident arising out of
+and in the course of his employment, and submits himself to medical
+treatment by or under the supervision of a person who is allowed
+to practise medicine, surgery or dentistry in the place where such
+medical treatment is given, the employer shall, if the Prostheses and
+Surgical Appliances Board approves, be liable to pay for the cost of
+supplying and fitting the prosthesis or surgical appliance required,
+subject to a maximum amount, which is the same as that for injuries
+sustained in Hong Kong.
+
+[page 52]
+Q6 What should employer and employee take note of if an employee
+sustains a work injury outside Hong Kong and receives medical
+treatment at the place of accident?
+A6 Points to Note for employers
+The employer must notify the Commissioner for Labour of any work
+accident or prescribed occupational disease by Form 2, Form 2A or
+Form 2B, as the case may be. Work injury cases should be reported
+in 14 days’ time while the fatal cases in 7 days’ time;
+The employer should notify the insurer (not the insurance broker) as
+soon as possible, within the stipulated period and in the specified
+format (in writing or by specified form) required by the insurer;
+The employer should also keep a record of the periodical payments (i.e.
+payments for sick leaves for work injury) paid to the injured employee,
+the original copies of the Certificate of Compensation Assessment
+(Form 5) issued by the Labour Department and / or the Certificate
+of Assessment (Form 7) issued by the Employees’ Compensation
+Assessment Board, medical certificates and receipts in respect of
+medical expenses properly; and submit the relevant documents to
+the insurer within the stipulated period and in the specified format
+required by the insurer for indemnifying the amount of compensation
+already paid to the injured employee; and
+On receiving any legal documents, including an order or a summons
+issued by the Court, the employer should notify his insurer the soonest
+possible or seek legal advice.
+Points to note for employees
+Notify the employer / supervisor / human resources department of the
+work injury immediately regardless of whether it is serious or not, and
+submit to the employer originals of medical certificates and receipts
+for medical expenses in relation to medical consultation and followup treatment as soon as possible. Remember to keep copies.
+
+[page 53]
+When receiving medical treatment outside Hong Kong, remember to
+state clearly to the attending medical staff the cause and course of
+the injury and keep all medical records, including attendance slips,
+appointment slips, referral letters, medical certificates, admission slips
+and medical reports etc. This will on one hand facilitate medical staff
+to make proper diagnosis and offer appropriate treatment, and on the
+other hand assist the process of medical clearance and assessment
+by Occupational Medicine Unit of the Labour Department and the
+Assessment Board respectively.
+If necessary, receive medical treatment from registered medical
+practitioner, registered Chinese medicine practitioner or registered
+dentist in Hong Kong, and provide the medical information to the
+Labour Department for follow up.
+(IV) Suspected Cases of Prescribed Occupational Disease
+Q7 What should an employee do if he suspects he has contracted an
+occupational disease specified by the Employees’ Compensation
+Ordinance?
+A7 If an employee suspects having contracted an occupational disease
+specified in the Second Schedule of the Employees’ Compensation
+Ordinance, he should seek medical treatment as soon as possible. He
+should describe to his treating doctor full details of the illness, as well as
+the occupation, to facilitate the doctor to make diagnosis. If the treating
+doctor finds or reasonably believes that the employee’s illness is one of the
+occupational diseases specified in the Second Schedule of the Ordinance,
+and believes that such illness was or may have been attributable to an
+occupation specified in the Schedule in which he was employee at any
+time within the prescribed period, he should notify the Commissioner
+for Labour the employee’s medical condition by filling in LD483. The
+Occupational Health Service (OHS) of the Labour Department will study
+the LD483 and relevant information and take follow up action. (LD483 is
+available by calling OHS Office at 2852 4041, or by downloading from
+https://www.labour.gov.hk/eng/form/oh/ld483.PDF .)
+
+[page 54]
+Q8 What should an employee do if it is confirmed that he has
+contracted an occupational disease specified by the Employees’
+Compensation Ordinance?
+A8 The employee should receive treatment as advised by his treating
+doctor. The employee should also submit the relevant confirmation
+document and the original copy of medical certificates to his employer
+as soon as possible and keep a copy of the document and medical
+certificates submitted. He should also remind his employer to notify the
+Commissioner for Labour, within 14 days in the prescribed form (i.e.
+Form 2A), of any prescribed occupational disease that comes to his
+knowledge, irrespective of whether the occupational disease gives rise
+to any liability to pay compensation. If the employer fails to do so, the
+employee may approach the Central Processing Team office or a nearby
+branch office of the Employees’ Compensation Division (Operations) of
+the Labour Department (see “Introduction” for addresses) for assistance.
+Upon receipt of employee’s information and having ascertained that
+the employer has not reported the occupational disease to the Labour
+Department, the Employees’ Compensation Division will issue a letter
+requesting the employer to report the occupational disease in accordance
+with the Employees’ Compensation Ordinance. Upon receipt of Form 2A
+submitted by the employer, the Employee’s Compensation Division will
+follow up promptly.
+(V) Calculation of Earnings
+Q9 What should be taken as the monthly earnings of an injured
+employee working in individual industry (such as the construction
+industry) which features an irregular pattern of working days?
+A9 The “monthly earnings*” is to be taken as the earnings for the month
+immediately preceding the date of the accident, or the average monthly
+earnings for the previous 12 months of employment (or any lesser period
+if the employee has not been so long employed), whichever calculation
+is more favourable to the employee.
+
+[page 55]
+If the employee in question is daily rated, and that he actually worked for
+19 days in the month immediately preceding the date of the accident,
+the employee’s earnings for the one month immediately preceding the
+date of the accident will be:
+Earnings of the employee for the month immediately preceding the date
+of the accident = daily wages x 19 days
+Suppose that the employee had only worked for the employer for 4
+months before the date of the accident, the average monthly earnings of
+the employee in the less-than-12-month period is as follows:
+Average monthly earnings
+of the employee in the lessthan-12-month employment
+=
+Actual total earnings of the
+employee in the past 4 months
+Note: * Please refer to Chapter 6 for the definition of “earnings”.
+(VI) Calculation of Medical Expenses
+Q10 Can an employee receive medical treatment outside Hong Kong if
+he sustains a work injury in Hong Kong?
+A10 According to the Employees’ Compensation Ordinance, unless the
+employer entered into an agreement in writing with the employee, the
+employer is not liable to pay the employee medical expenses in respect
+of medical treatment given outside Hong Kong in relation to an accident
+occurring in Hong Kong.
+Q11 Would the employer still be liable to pay the medical expenses if
+the injured employee purchases medicines pursuant to the same
+prescription on a second or subsequent occasions by himself?
+
+[page 56]
+A11 According to the Employees’ Compensation Ordinance, medical
+expenses include the cost of medicines prescribed by a registered
+medical practitioner, a registered Chinese medicine practitioner or a
+registered dentist for the direct treatment of the relevant injury. Unless
+the prescription contains a direction that the medicines are to be
+dispensed for a stated number of times and the medicines are dispensed
+in accordance with that direction, the employee shall not be reimbursed
+for the same prescription on the subsequent occasions. And the amount
+of medical expenses the employee may recover is subject to the daily
+maximum of medical expenses payable.
+(VII) Procedures for Medical Clearance and Assessment
+of Permanent Loss of Earning Capacity
+Q12 How would an injured employee go through the procedure for
+medical clearance?
+A12 (i) Medical clearance is not required : For the work injury with
+a period of temporary incapacity not exceeding 7 days and with
+no permanent incapacity involved, the case should be settled by
+“direct payment” (employer to submit Form 2B) or “determination of
+compensation by agreement according to the Ordinance” (employer
+to submit Form 2 and complete Part H “direct settlement”); and the
+employer pays periodical payments and medical expenses to the
+employee. Medical clearance or arrangement for assessment on
+the loss of earning capacity is not required for such cases.
+(ii) Medical clearance is required : For any other cases, upon
+receipt of notification of accident from the employer, the Employees’
+Compensation Division of the Labour Department will issue a
+“Medical Clearance Notification” and other related information to
+the injured employee by post. The employee should approach the
+Occupational Medicine Unit of the Labour Department for medical
+clearance according to the “Medical Clearance Notification”. When
+approach the Occupational Medicine Unit, the employee should
+bring along the photocopies of all medical certificates, relevant
+follow-up or appointment slips and all other related documents.
+
+[page 57]
+Q13 Will an injured employee be arranged with medical assessment?
+A13 An injured employee may or may not be arranged with medical
+assessment. If a work injury is likely to result in permanent incapacity,
+the Occupational Medicine Unit of the Labour Department will arrange
+the injured employee to attend the Employees’ Compensation (Ordinary
+Assessment) Board for assessing the percentage of loss of earning
+capacity permanently caused by the injury. The employee should
+attend as scheduled. The Assessment Board will issue a Certificate of
+Assessment (Form 7) to the employer and the employee separately by
+mail after the assessment. If it could be substantiated that the injury
+sustained by the employee, including injuries to limbs and body parts,
+functional impairment of organs and mental impairment, etc, are related
+to the work accident and have caused temporary and / or permanent
+incapacity, the amount of employees’ compensation would be assessed
+accordingly.
+(VIII) Settlement of Employees’ Compensation Cases
+by Paper Medical Clearance
+Q14 Under what circumstances may an employer apply to settle an
+employees’ compensation case by “Paper Medical Clearance”?
+A14 To speed up the settlement of employees’ compensation cases, both
+the employer and the employee, or solely the employer, may submit
+an application to the Labour Department to initiate the “Paper Medical
+Clearance” (“PMC”) procedures to facilitate the issue of the Certificate of
+Compensation Assessment (Form 5).
+The application must fulfill all of the following conditions:
+there is no dispute over the case;
+the period of sick leave should be more than 7 days (if the period of
+sick leave does not exceed 7 days, the employer and the employee
+should settle the case via direct payment by employer or agreement
+between employer and employee in accordance with section 10(11)
+or section 16CA of the Employees’ Compensation Ordinance
+respectively);
+
+[page 58]
+the injury / occupational disease does not lead to any permanent
+incapacity;
+the injury / occupational disease does not involve damage to teeth or
+the need for fitting of prostheses or surgical appliances;
+all sick leave certificates are issued by registered medical practitioners,
+registered Chinese medicine practitioners and / or registered dentists;
+the employee’s sick leave has already come to an end;
+the employer must provide copy of all sick leave certificates in respect
+of the employees’ compensation case; and
+for occupational disease case, it should be one specified in the Second
+Schedule of the Employees’ Compensation Ordinance as advised by
+the Occupational Health Officer of the Labour Department.
+If the case meets the above requirements, an employer may submit an
+application according to one of the following scenarios:
+(i) An application made by both parties
+If both the employer and the employee agree to settle the case
+by PMC, the application form, having signed by both parties, can
+be submitted to the Labour Department together with the required
+documents. A Certificate of Compensation Assessment (Form 5)
+stating the amount of compensation payable will be issued to both
+parties after the application is approved.
+(ii) An application made solely by an employer is applicable to
+one of the following two situations:
+Situation 1:
+The employer proposes to settle the case by PMC, but is unable to
+have the employee sign the application form.
+Situation 2:
+The employee fails to complete the medical clearance or
+assessment procedure despite being urged repeatedly by the
+Labour Department, rendering the case outstanding.
+
+[page 59]
+In the above two situations, the employer may solely return a
+completed and signed application form together with the required
+documents to the Labour Department. The Labour Department will
+issue a letter to inform the employee that the case will be handled
+by PMC. Unless the employee raises objection to this arrangement,
+the Labour Department will issue a Certificate of Compensation
+Assessment (Form 5) to both parties stating the amount of
+compensation payable after the application is approved.
+If the application is approved, the employee will not be required to
+attend the medical clearance interview at the Occupational Medicine
+Unit of the Labour Department in person. The application form is
+available at the offices of Employees’ Compensation Division (see
+“Introduction” for addresses).
+Q15 Can an application for settlement of an employees’ compensation
+case under “Paper Medical Clearance” be solely made by an
+employee?
+A15 If the case meets the conditions mentioned in A14 above, an employee
+may solely apply for settlement under “Paper Medical Clearance” by
+submitting a completed and signed application form, together with
+the required documents, to the Labour Department. If the application
+is approved, the employee will not be required to attend the medical
+clearance interview at the Occupational Medicine Unit of the Labour
+Department in person and a Certificate of Compensation Assessment
+(Form 5) will be issued to the employer and the employee. The employee
+may approach the case officer of Employees’ Compensation Division to
+obtain the application form.
+
+[page 60]
+(IX) Employees’ Compensation after Resignation of
+Injured Employee
+Q16 An employee resigned after a work-related accident, but the case
+has not yet settled. Is the employer still liable to pay periodical
+payments and other compensations to the ex-employee who is
+granted further sick leave by a registered medical practitioner, a
+registered Chinese medicine practitioner or a registered dentist
+due to the work injury?
+A16 If the ex-employee can produce medical certificates issued by registered
+medical practitioners, registered Chinese medicine practitioners or
+registered dentists certifying that a further period of absence from duty
+is necessary in relation to the work injury (i.e. the period of temporary
+incapacity), the employer is still liable to pay him periodical payments
+for the sick leave so granted and taken, irrespective of whether the
+employment relationship still exists. The employer is also liable to pay
+the medical expenses and compensation for permanent total or partial
+incapacity as stipulated in the Employees’ Compensation Ordinance.
+(X) Doubtful Employees’ Compensation Case
+Q17 How should an employer handle a doubtful employees’
+compensation case?
+A17 If the employer is in doubt about the cause of an employee’s injury
+or sick leave, he should conduct preliminary investigation as soon as
+practicable, including interviewing the injured employee to obtain details
+of the accident, inquiring of the witnesses about the circumstances,
+assessing the possibility of the work environment leading to the
+accident, and requesting the attending registered medical practitioner,
+registered Chinese medicine practitioner or registered dentist of the
+injured employee to provide a medical report for reference. On the other
+hand, the employer can contact the insurer for appropriate follow-up
+action, such as arranging a medical examination to be conducted by a
+registered medical practitioner, registered Chinese medicine practitioner
+or registered dentist named by the employer for the injured employee.
+
+[page 61]
+The employer may also seek professional legal advice. On encountering
+a suspected fraudulent case, an employer may consider forwarding
+the evidence collected and other relevant information to the Police for
+action. If the employer is still in doubt about the work injury case, he may
+pass his views and the relevant information to the Labour Department.
+The Labour Department will give its views to both the employer and
+the employee on the likelihood of the case being a work injury from the
+medical point of view and according to the provisions of the Employees’
+Compensation Ordinance. Please take note that the Labour Department
+does not have the authority to make adjudication on any dispute of the
+case. If the employer and the employee could not reach any settlement
+with the assistance of the Labour Department, the case shall be
+determined by the Court.
+Q18 If an employer considers that he is not obliged to take up any
+statutory obligation to pay any compensation in relation to an
+accident, is he still required to notify the Commissioner for Labour
+of the accident?
+A18 According to section 15 of the Employees’ Compensation Ordinance,
+an employer is required to notify the Commissioner for Labour of any
+accident in the manner set out in the Ordinance, irrespective of whether
+the accident gives rise to any liability to pay compensation. If an employer
+is in doubt about whether a work injury is work-related or cannot reach
+a decision over admission of liability, he should inform this department
+of his query in reporting the injury at work, either by making a note in
+the Form 2, or attaching a full account of relevant information available
+to the employer. The Employees’ Compensation Division of the Labour
+Department would then tender our advice and assistance as appropriate.
+
+[page 62]
+(XI) Others
+Q19 What should an injured person do when being approached by
+“recovery agents” peddling claims recovery service?
+A19 If approached by “recovery agents” peddling claims recovery service,
+an injured person should not respond to their touting activities and
+do not discuss with them the injury case or disclose to them any
+personal particulars to avoid his personal information being abused.
+Besides, do not sign any document, or he may face unanticipated legal
+consequences and financial liabilities later on.
+The so-called “recovery agents” may through acts such as maintenance
+and champerty carve up the compensation payable to victims of personal
+injury cases, jeopardizing their rights and interests to compensation.
+Under the laws of Hong Kong, any person engaging in maintenance and
+champerty commits an offence and is punishable by a fine and up to
+seven years’ imprisonment on conviction.
+Through persuasion, “recovery agents” may draw up agreement with
+victims of work-related or traffic accidents, under which the “recovery
+agents” will fund the victims’ claims (such as paying the victims’ litigation
+costs) in return for a share of the compensation to be recovered. The
+injured in any accident, including work accident and traffic accident,
+should be beware of these touting activities, and if necessary, seek
+proper legal advice or representation, or assistance from government
+departments such as the Legal Aid Department, the Labour Department
+and the Social Welfare Department, or The Law Society of Hong Kong.
+Anyone who feels being harassed should contact the Police immediately
+for assistance.
+
+[page 63]
+List of Commonly Used Prescribed Forms under
+the Employees’ Compensation Ordinance
+Form Name Content
+Form 2
+Notice by Employer of the Death of
+an Employee or of an Accident to
+an Employee Resulting in Death or
+Incapacity
+To report work accident
+Form 2A
+Notice by Employer of the Death or
+Incapacity of an Employee due to
+Occupational Disease
+To report occupational
+disease
+Form 2B
+Notice by Employer of an Accident to
+an Employee resulting in Incapacity
+for a Period Not Exceeding 3 Days
+To report work accident
+(sick leave not exceeding
+3 days)
+Form 5 Certificate of Compensation
+Assessment
+To specify the amount
+of compensation
+Form 6 Certificate of Review of Compensation
+Assessment
+To specify the
+amount of review of
+compensation
+Form 7
+Certificate of Assessment
+- Employees’ Compensation
+(Ordinary Assessment) Board
+To specify the result of
+assessment
+Form 8
+Certificate of Assessment
+- Employees’ Compensation
+(Special Assessment) Board
+To specify the result of
+assessment
+Form 9
+Certificate of Review of Assessment
+- Employees’ Compensation
+(Ordinary Assessment) Board
+To specify the result of
+review of assessment
+Form 10
+Certificate of Review of Assessment
+- Employees’ Compensation
+(Special Assessment) Board
+To specify the result of
+review of assessment

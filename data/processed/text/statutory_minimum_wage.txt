@@ -1,0 +1,1314 @@
+[page 2]
+Page
+1 Introduction 2
+2 Legislative aim, principles and spirit 3
+3 Coverage of the Ordinance 5
+4 Application of the Ordinance
+A. How to count hours worked
+- Time in attendance at a place of employment
+- Travelling time
+- Meal break
+- On-call or standby time
+- Other situations
+B. Employer to pay the balance to employee whose
+wages are less than minimum wage
+C. Wages payable to employee in respect of wage
+period
+D. No contracting out 36
+5 Employer to keep records of the total number of
+hours worked by employee (where applicable)
+Appendix 1 Exemption of specified student interns and work
+experience students
+Appendix 2 Enquiries 47
+Note: For illustration purpose, figures are rounded to one decimal place in
+examples involving non-integer calculations.
+Table of Contents
+
+[page 3]
+1 Introduction
+🔹 The Statutory Minimum Wage (SMW) rate is raised from $37.5 per
+hour to $40 per hour with effect from 1 May 2023
+. If 1 May 2023
+falls within a wage period, the SMW rate of $40 applies to any hour
+worked on or after 1 May 2023 in calculating the minimum wage for
+that wage period.
+🔹 We have endeavoured to include some relatively common examples
+to cover different situations in this set of Reference Guidelines to
+facilitate employers and employees in understanding the requirements
+of the Minimum Wage Ordinance (MWO). We believe that these
+examples already cover most of the situations in the computation of
+minimum wage. Nonetheless, given diversity in mode of employment,
+there is difficulty in listing out all situations exhaustively in the
+Reference Guidelines. Employers and employees who wish to
+enquire about their individual situation can call 2717 1771 (handled
+by “1823”) which operates round-the-clock.
+🔹 The interpretation of MWO (Cap. 608) should be based on its original
+text. The full text of the Ordinance has been uploaded to the
+Hong Kong e-Legislation of the Department of Justice website at
+www.elegislation.gov.hk.
+Revised April 2023
+1 SMW took effect on 1 May 2011. The initial SMW rate was $28 per hour, and was raised
+to $30, $32.5, $34.5 and $37.5 on 1 May 2013, 1 May 2015, 1 May 2017 and 1 May 2019
+respectively.
+$40
+
+[page 4]
+2 Legislative aim, principles and spirit
+🔹 MWO establishes the SMW regime aimed at striking an appropriate
+balance between forestalling excessively low wages and minimising
+the loss of low-paid jobs while sustaining Hong Kong’s economic
+growth and competitiveness.
+🔹 SMW is expressed as an hourly rate. In essence, wages payable
+to an employee in respect of any wage period, when averaged over
+the total number of hours worked in the wage period, should be no
+less than the SMW rate. The employment and wage payment mode
+(i.e. employed and remunerated at monthly-rated, weekly-rated,
+daily-rated, hourly-rated or piece-rated, etc.) formulated between
+employers and employees in accordance with their employment
+contracts and the Employment Ordinance (EO) need not be changed
+with the implementation of SMW.
+🔹 The major provisions of MWO (e.g. the definition of wages) are
+aligned as closely as possible with those of EO to ensure consistency
+and effective enforcement, avoid confusion to employers and
+employees and minimise the compliance cost for employers.
+🔹 Neither MWO nor EO prescribes that meal breaks and rest days
+should be paid. Whether meal breaks and rest days are with pay
+or otherwise are employment terms as agreed between employers
+and employees. Whether meal breaks are hours worked and/or with
+pay, whether rest days are with pay, wage period, wage calculation,
+reckoning and payment arrangement of commission, etc. are relevant
+in the computation of minimum wage. Where necessary, employers
+and employees should seek consensus on the employment terms on
+lawful, sensible and reasonable grounds through labour-management
+communication and consultation. According to EO, employers
+should not unilaterally vary the employment terms and conditions
+of employees. The Labour Department (LD) stands ready to assist
+employers and employees to resolve their problems and reach
+consensus. If employees suspect that their employment rights and
+benefits have been undermined, they could seek help from LD. LD
+will actively follow up such cases. Any provision in the contract of
+employment seeking to extinguish or reduce the employee’s SMW
+entitlement shall be void under the law.
+
+[page 5]
+🔹 Employees are an enterprise’s valuable asset. We appeal to
+employers to treat their employees well so as to maintain harmonious
+labour relations. Employers should carefully assess the impact both
+on themselves and on the employees in contemplating any change to
+the employment terms. Sufficient communication between employers
+and employees is necessary. Employees will always have a greater
+commitment to work as well as a stronger sense of belonging when
+employers respond positively and sincerely to their reasonable
+requests. This will be beneficial to the operation and business of
+the enterprise and ultimately achieve a win-win situation for both
+employers and employees.
+2 Legislative aim, principles and spirit
+
+[page 6]
+3 Coverage of the Ordinance
+🔹 SMW applies to all employees, whether they are monthly-rated,
+weekly-rated, daily-rated, hourly-rated, piece-rated, permanent,
+casual, full-time, part-time or other employees, and regardless of
+whether they are employed under a continuous contract
+as defined
+in EO, with the following exceptions :
+📌 persons to whom EO does not apply
+📌 live-in domestic workers
+This refers to domestic workers (including domestic helpers,
+carers, chauffeurs, gardeners, boat-boys or other personal
+helpers) who dwell free of charge in their employing household,
+irrespective of their sex, race or nationality.
+Note :
+The following persons are not live-in domestic workers
+and SMW applies to them :
+● domestic workers not dwelling free of charge in their
+employing household
+● live-in employees who are not domestic workers
+📌 specified student interns as well as work experience students
+during a period of exempt student employment ( Please refer to
+Appendix 1 for details)
+2 According to EO, an employee who has been employed continuously by the same
+employer for four weeks or more, with at least 18 hours worked in each week is regarded
+as being employed under a continuous contract.
+3 EO does not apply to : (a) a family member who lives in the same dwelling as the
+employer; (b) an employee as defined in the Contracts for Employment Outside Hong Kong
+Ordinance; (c) a person serving under a crew agreement under the Merchant Shipping
+(Seafarers) Ordinance, or on board a ship which is not registered in Hong Kong; and (d) an
+apprentice whose contract of apprenticeship has been registered under the Apprenticeship
+Ordinance. As for (d), while certain provisions of EO apply to registered apprentices, SMW
+is not applicable.
+
+[page 7]
+Note :
+Employees with disabilities
+📎 Employees with disabilities are entitled to the same protection of SMW as
+able-bodied employees. MWO provides a special arrangement for employees
+with disabilities to opt to undergo productivity assessment at their choice to
+determine whether they should be remunerated at no less than the SMW
+rate or at a rate commensurate with their productivity. This strikes a balance
+between providing wage protection to employees with disabilities and
+safeguarding their employment opportunities. The right to invoke productivity
+assessment is solely vested in the employees with disabilities, not their
+employers. For employees with disabilities who do not opt to undergo
+productivity assessment, their employers must pay them at not lower than
+the SMW rate. For details of this special arrangement, please refer to the
+Concise Guide to Productivity Assessment for Employees with Disabilities
+under the Statutory Minimum Wage Regime.
+Self-employed persons
+📎 SMW does not apply to self-employed persons / contractors. For information
+about the difference between an “employee” and a “self-employed person /
+contractor”, please refer to the booklet Clarify Your Employment Status.
+📎 If in essence there exists an employer-employee relationship, even though
+the worker is called a contractor or self-employed person or has been labelled
+as a self-employed person in the contract, the employer is still required to
+fulfil his responsibilities under the relevant labour legislation by paying back
+statutory benefits retroactively to the worker who is falsely labelled as a selfemployed person. The employer may also be criminally liable in respect of
+the benefit items of relevant legislation.
+📎 If both parties wish to sign a contract of self-employed person / contractor, or
+before they consider changing status from an employee to a self-employed
+person / contractor, both parties must cautiously assess the pros and cons
+involved, including the substantial differentiation in the employment rights and
+benefits under different scenarios of different identities, clearly calculating the
+risk and do not make any decision without due care. An employer should not
+unilaterally change the status of his employee to a self-employed person /
+contractor without the consent of the employee. Otherwise, the employee may,
+depending on the circumstances, lodge a claim for remedies against his employer
+for unreasonable variation of the terms of the employment contract under EO.
+4 In addition, if substantial and fundamental changes to the detriment of the employee have been
+made to the contract of employment arising from the employer’s conduct without the employee’s
+consent, the employee can claim for termination compensation from his employer on the ground of
+constructive dismissal.
+3 Coverage of the Ordinance
+
+[page 8]
+A
+How to count hours worked
+🔹 An employee is entitled to be paid wages in respect of any wage
+period of not less than the minimum wage.
+🔹 The minimum wage for a wage period is the amount derived by
+multiplying the total number of hours (including any part of an hour)
+worked by the employee in the wage period by the SMW rate.
+🔹 For the purpose of computing minimum wage, hours worked include
+any time when the employee is, in accordance with the contract of
+employment or with the agreement or at the direction of the employer :
+📌 in attendance at a place of employment, irrespective of whether
+he is provided with work or training at that time; or
+📌 travelling in connection with his employment, excluding travelling
+(in either direction) between his place of residence and his place
+of employment (other than a place of employment that is outside
+Hong Kong and is not his usual place of employment).
+🔹 A place of employment means any place at which the employee is,
+in accordance with the contract of employment or with the agreement
+or at the direction of the employer, in attendance for the purpose of
+doing work or receiving training.
+
+[page 9]
+Time in attendance at a place of employment
+Example 1 :
+An employee works in the office from 9:00 a.m. to 1:00 p.m. and from
+2:00 p.m. to 6:00 p.m. in accordance with the contract of employment.
+He also works overtime from 6:00 p.m. to 7:00 p.m. with the agreement
+or at the direction of the employer. The time from 9:00 a.m. to 1:00 p.m.
+and from 2:00 p.m. to 7:00 p.m. is hours worked for computing minimum
+wage. (Note : As for whether meal break is hours worked for computing
+minimum wage, please refer to the section on “Meal break” below.)
+Example 2 :
+With circumstances the same as Example 1 above, but for personal
+reasons (e.g. to avoid busy traffic), the employee returns to the office at
+8:30 a.m. As he is not, in accordance with the contract of employment
+or with the agreement or at the direction of the employer, in attendance
+in the office for the purpose of doing work, the office from 8:30 a.m. to
+9:00 a.m. is not his place of employment as defined under MWO for the
+purpose of computing minimum wage. Such time from 8:30 a.m. to 9:00 a.m.
+shall not be counted as hours worked for computing minimum wage.
+Example 3 :
+The working hours of an employee finish at 6:00 p.m. according to the
+contract of employment. However, he stays in the office from 6:00 p.m.
+to 6:15 p.m. for personal reasons, and is not, in accordance with the
+contract of employment or with the agreement or at the direction of the
+employer, in attendance in the office for the purpose of doing work.
+Therefore, for the purpose of computing minimum wage, the office
+from 6:00 p.m. to 6:15 p.m. is not his place of employment as defined
+under MWO. As such, the time from 6:00 p.m. to 6:15 p.m. shall not be
+counted as hours worked for computing minimum wage.
+A. How to count hours worked
+
+[page 10]
+Example 4 :
+At the direction of the employer, an employee works outside Hong Kong
+(for instance, at the company’s factory in the Mainland). The employer
+provides free accommodation and/or meals for the employee during the
+period of stay. If the employee in a certain period of time during the stay
+is not in attendance at a place of employment for the purpose of doing
+work or receiving training in accordance with the contract of employment
+or with the agreement or at the direction of the employer - such as his
+sleeping time, personal recreation time - such time is not hours worked
+for computing minimum wage.
+Example 5 :
+An employee attends a 3-hour training course at the direction of the
+employer. Since the employee is, at the direction of the employer, in
+attendance for the purpose of receiving training, these 3 hours are hours
+worked for computing minimum wage.
+Note :
+● As illustrated in the above examples, whether a particular
+place is a place of employment as defined under MWO for
+computing minimum wage depends on whether the employee
+is, in accordance with the contract of employment or with the
+agreement or at the direction of the employer, in attendance at
+the place for the purpose of doing work or receiving training.
+This is a question of fact and must be determined by reference
+to the facts and circumstances of individual cases.
+● Should the employer and the employee have different
+understanding on whether the employee is in attendance at a
+place of employment during a certain period of time (e.g. during
+the time beyond the working hours specified in the employment
+contract) and whether the employee is in attendance with the
+agreement or at the direction of the employer under various
+circumstances, they should clarify between themselves as
+soon as practicable in order to avoid dispute when computing
+minimum wage.
+A. How to count hours worked
+
+[page 11]
+Travelling time
+🔹 Generally speaking, for computing minimum wage under MWO,
+the travelling time between an employee’s place of residence and
+his place of employment within Hong Kong is not hours worked,
+irrespective of whether it is the usual place of employment.
+Example 6 :
+An employee works in a company in Hong Kong. The travelling time
+between his place of residence and the place of employment is not hours
+worked for computing minimum wage.
+One day, this employee delivers documents from the company to a
+client’s office, and then returns to the company. With regard to the
+travelling time between his company and the client’s office when he is,
+in accordance with the contract of employment or with the agreement
+or at the direction of the employer, travelling in connection with his
+employment, the time is also hours worked for computing minimum
+wage.
+Example 7 :
+An employee works in the office in Hong Kong on Mondays, and in
+the company’s factory in the Mainland from Tuesdays to Fridays. With
+regard to the travelling time between his place of residence and the
+office in Hong Kong, it is not hours worked for computing minimum wage.
+Since the company’s factory in the Mainland is also his usual place of
+employment, the time he takes to travel between his place of residence
+and the company’s factory in the Mainland is generally not hours worked
+for computing minimum wage.
+A. How to count hours worked
+
+[page 12]
+Example 8 :
+An employee works in a factory in Hong Kong. One day, the employer
+assigns him to go to a client’s office outside Hong Kong which is not his
+usual place of employment. The time he takes to travel, in accordance
+with the contract of employment or with the agreement or at the direction
+of the employer, between his place of residence and the client’s office
+outside Hong Kong is hours worked for computing minimum wage.
+Example 9 :
+An employee is directed by the employer to travel from the office to a
+training centre to attend a 2-hour training course. He is required to return
+to the office to continue working after training. The travelling time to and
+from his office and the training centre is hours worked for computing
+minimum wage.
+A. How to count hours worked
+
+[page 13]
+Meal break
+🔹 When an employee during his meal break also falls under the
+circumstances of hours worked (Please refer to 4 Application of
+the Ordinance the section on A. How to count hours worked ) as
+specified in MWO, such meal break is hours worked for computing
+minimum wage. Hence, if an employee is, during his meal break, in
+accordance with the employment contract or with the agreement or at
+the direction of the employer, in attendance at a place of employment,
+irrespective of whether he is provided with work or not, such time
+should be included in the hours worked for computing minimum
+wage (Example 10). On the contrary, meal break falling outside the
+provisions on hours worked in MWO is not included in the hours
+worked for computing minimum wage (Example 11).
+🔹 Besides, if meal break is regarded as hours worked by the employee
+according to his employment contract or agreement with the employer,
+such time must also be taken into account in computing minimum
+wage (Example 12). Although EO does not provide specific regulation
+for meal break, after an employer and his employee have included
+meal break as hours worked by the employee in accordance with their
+employment contract or agreement, the employer shall not unilaterally
+vary or remove such contractual terms or agreement concerning
+hours worked. EO already accords protection to employees in this
+respect.
+A. How to count hours worked
+
+[page 14]
+Example 10 :
+An employee has his meal break from 1:00 p.m. to 2:00 p.m. At the
+same time, he remains in attendance at his post for the purpose of
+doing work in accordance with the contract of employment or with the
+agreement or at the direction of the employer. Such meal break is hours
+worked for computing minimum wage.
+Example 11 :
+An employee has his meal break from 1:00 p.m. to 2:00 p.m. For
+personal reasons, he takes his meal in the workshop. Although he is in
+the workshop during the period from 1:00 p.m. to 2:00 p.m., he is not, in
+accordance with the contract of employment or with the agreement or
+at the direction of the employer, in attendance in the workshop for the
+purpose of doing work or receiving training. The workshop from 1:00 p.m.
+to 2:00 p.m. is not his place of employment as defined under MWO, and
+the hours worked for computing minimum wage shall not count such
+meal break.
+Example 12 :
+With circumstances the same as Example 11 above, whereas meal
+break is regarded as hours worked under the employment contract or
+agreement between the employer and the employee, the time from 1:00 p.m.
+to 2:00 p.m. shall be counted in computing minimum wage.
+A. How to count hours worked
+
+[page 15]
+On-call or standby time
+🔹 On-call or standby arrangements depend on the terms in the
+contract of employment or the agreement between the employer
+and the employee. Thus, there is a diversity of on-call or standby
+arrangements for different industries and establishments.
+🔹 According to MWO, if an employee while being on-call or standby
+is in attendance at a place of employment in accordance with the
+contract of employment or with the agreement or at the direction of the
+employer, such on-call or standby time is hours worked for computing
+minimum wage. On the other hand, if he is not in attendance at a
+place of employment during the on-call or standby time, such time is
+not hours worked for computing minimum wage.
+🔹 The employer and the employee may also agree to reckon on-call
+or standby time as the hours worked by the employee for computing
+minimum wage. Should on-call or standby time be regarded as
+hours worked by the employee under his employment contract or
+agreement with the employer, such on-call or standby time should
+also be counted in computing minimum wage. If the employer and
+the employee have included on-call or standby time as hours worked
+by the employee in accordance with their employment contract or
+agreement, the employer shall not unilaterally vary or remove such
+contractual terms or agreement concerning hours worked.
+Example 13 :
+An employee’s working hours are from 9:00 a.m. to 6:00 p.m. According
+to the contract of employment, he and his colleagues are required to
+take turns for attendance at the workplace from 7:00 p.m. to 10:00 p.m.
+for on-call duties once a week in order to provide emergency services
+upon clients’ calls. During the on-call time, he is not allowed to leave the
+workplace without permission. Since the employee in this example is, in
+accordance with the contract of employment, in attendance at the place
+of employment while being on-call, the on-call time from 7:00 p.m. to
+10:00 p.m. is hours worked for computing minimum wage.
+A. How to count hours worked
+
+[page 16]
+Other situations
+🔹 In addition to the more common patterns of working hours, different
+operational and work requirements may exist in various industries
+or establishments to cater for their sector-specific and operational
+needs. The job requirements also vary tremendously according
+to the multifarious terms of employment and agreements between
+employers and employees in different industries and scenarios.
+🔹 Hence, MWO does not seek to provide an exhaustive list of the
+circumstances of hours worked for the purpose of computing
+minimum wage. Apart from MWO, if the time in question is regarded
+as hours worked by the employee under the employment contract
+or agreement with the employer, such time should be included in
+computing minimum wage.
+A. How to count hours worked
+
+[page 17]
+B
+Employer to pay the balance to employee
+whose wages are less than minimum wage
+🔹 An employee is entitled to be paid wages in respect of any wage
+period of not less than the minimum wage. The minimum wage for a
+wage period is the amount derived by multiplying the total number of
+hours (including any part of an hour actually worked) worked by the
+employee in the wage period by the SMW rate.
+Minimum wage ═
+Total number of
+hours worked by the
+employee in the
+wage period
+X
+SMW rate
+(i.e. $40 per hour with
+effect from 1 May 2023)
+Example 14 :
+The total number of hours worked by an employee in a wage period,
+including overtime of eight hours and 45 minutes, is 208 hours and
+45 minutes (i.e. 208.75 hours). The SMW rate is $40 per hour. The
+minimum wage of the employee according to the total number of hours
+worked for that wage period shall be:
+208.75 hours (total number of hours worked) X $40 (SMW rate)
+═ $8,350 (minimum wage)
+B. Employer to pay the balance to employee
+whose wages are less than minimum wage
+
+[page 18]
+🔹 If the wages payable to the employee in respect of the wage
+period are less than the minimum wage, he is entitled to be paid
+the difference (i.e. “ additional remuneration ”). The contract of
+employment of the employee must be taken to provide that the
+employee is entitled to additional remuneration in respect of that wage
+period. This additional remuneration also applies, among others, to
+the calculation of the following :
+📌 wages or any other sum payable under EO
+📌 ex gratia payment under the Protection of Wages on Insolvency
+Ordinance
+📌 mandatory contributions under the Mandatory Provident Fund
+Schemes Ordinance
+📌 monthly earnings of the employee under the Employees’
+Compensation Ordinance or the Occupational Deafness
+(Compensation) Ordinance
+🔹 The definition of “wage period” in MWO is aligned with that under
+EO. Unless the contrary is proved, a wage period is one month. No
+matter how the wage of an employee is calculated (e.g. monthlyrated, weekly-rated, daily-rated, hourly-rated, piece-rated, etc.), the
+minimum wage is still derived by multiplying the total number of hours
+worked in a wage period by the SMW rate. Taking a piece-rated
+employee as an example, with his total number of hours worked in a
+wage period multiplied by the SMW rate, this amount is his minimum
+wage for that wage period.
+🔹 Minimum wage is calculated with reference to the whole wage period.
+The basic principle is that hourly wages payable to an employee in
+respect of any wage period should be no less than the SMW rate on
+average for the total number of hours worked in the wage period.
+B. Employer to pay the balance to employee
+whose wages are less than minimum wage
+
+[page 19]
+🔹 Failure to pay minimum wage amounts to a breach of the wage
+provisions under EO. According to EO, an employer who wilfully
+and without reasonable excuse fails to pay wages to an employee
+when it becomes due is liable to prosecution and, upon conviction,
+to a fine of $350,000 and to imprisonment for three years. Where a
+wage offence committed by a body corporate is proved to have been
+committed with the consent or connivance of, or to be attributable to
+any neglect on the part of, any director, manager, secretary or other
+similar officer of the body corporate, such person shall be guilty of the
+like offence and, upon conviction, is liable to the same penalty.
+🔹 The Labour Tribunal and the Minor Employment Claims Adjudication
+Board
+have jurisdiction to deal with claims for sums of money arising
+from a breach of SMW.
+🔹 Since statutory entitlements under EO (e.g. end of year payment,
+holiday pay, annual leave pay, sickness allowance, maternity
+leave pay, paternity leave pay, severance payment, long service
+payment, wages in lieu of notice, etc.) are calculated according to
+the definition of wages, the amount of these statutory entitlements
+should also take into account the additional remuneration (where
+applicable). If these statutory entitlements under EO are calculated
+and paid on the basis of wages less than the minimum wage, it
+would amount to under-payment of such statutory entitlements.
+For offences and penalties, please refer to A Concise Guide to the
+Employment Ordinance . The Guide can be downloaded from LD’s
+homepage (http://www.labour.gov.hk) or obtained from the offices of
+the Labour Relations Division of LD.
+🔹 As SMW is part of wages, principal contractors and superior subcontractors engaged in construction works must, in accordance with
+EO, bear the liability of the first two months’ unpaid wages of their
+sub-contractors’ employees if their sub-contractors fail to pay SMW in
+accordance with MWO.
+5 The Minor Employment Claims Adjudication Board (the Board) adjudicates employment
+claims involving not more than 10 claimants for a sum of money not exceeding $15,000 per
+claimant. Employment claims falling outside the jurisdiction of the Board are heard by the
+Labour Tribunal.
+B. Employer to pay the balance to employee
+whose wages are less than minimum wage
+
+[page 20]
+How to determine
+🔹 In determining whether wages for the employee meet
+the minimum wage, the following two factors should be
+considered :
+(1) What is the minimum wage according to the total number of
+hours worked for the employee for the wage period?
+(i.e. total number of hours worked X SMW rate)
+(2) What is the wages payable to the employee in respect of the
+wage period?
+(Please refer to the following section C. Wages payable to
+employee in respect of wage period)
+If (2) is not less than (1) ➡ the minimum wage requirement is met
+If (2) is less than (1) ➡ employer has to pay additional
+remuneration
+Additional remuneration ═ Minimum wage ─ Wages payable
+B. Employer to pay the balance to employee
+whose wages are less than minimum wage
+
+[page 21]
+C
+Wages payable to employee in respect of wage period
+🔹 The definition of wages for SMW is aligned closely with that under EO.
+Unless otherwise specified in EO, “wages” means all remuneration,
+earnings, allowances (including travelling allowances, attendance
+allowances, commission, overtime pay), tips and service charges
+,
+however designated or calculated, capable of being expressed in
+terms of money, payable to an employee in respect of work done or to
+be done, subject to certain exclusions
+.
+🔹 For the purpose of computing minimum wage, MWO sets out whether
+certain sums should be counted as wages payable to an employee
+in respect of a wage period in specific situations in order to
+determine whether the wages meet the minimum wage requirement,
+as explained below.
+(1) Payment made to an employee for any time that is not hours worked
+🔹 Since the calculation of minimum wage excludes the time that is not
+hours worked, payment made to the employee for any time that is
+not hours worked (e.g. rest day pay, holiday pay, annual leave pay,
+maternity leave pay, paternity leave pay, sickness allowance, etc.)
+must not be counted as part of the wages payable to the employee in
+the calculation of minimum wage.
+6 According to EO, tips and service charges, in relation to wages, means sums of money
+received, directly or indirectly, by an employee in the course of and in connection with his
+employment which are –
+▲ paid or derived from payments made by persons other than the employer; and
+▲ recognised by the employer as part of the employee’s wages.
+7 According to EO, the following items are not wages :
+▲ the value of any accommodation, education, food, fuel, water, light or medical care
+provided by the employer;
+▲ employer’s contribution to any retirement scheme;
+▲ commission, attendance allowance or attendance bonus which is of a gratuitous nature or
+is payable only at the discretion of the employer;
+▲ non-recurrent travelling allowance or the value of any travelling concession or travelling
+allowance for actual expenses incurred by the employment;
+▲ any sum payable to the employee to defray special expenses incurred by him by the
+nature of his employment;
+▲ end of year payment, or annual bonus which is of a gratuitous nature or is payable only at
+the discretion of the employer; and
+▲ gratuity payable on completion or termination of a contract of employment.
+C. Wages payable to employee in respect of wage period
+
+[page 22]
+Example 15 :
+Assuming
+🔹 an employee with monthly salary of $11,000 has worked 24 days in a
+wage period of 30 days with the total number of hours worked being
+204 hours
+🔹 in this wage period, payments made to the employee for time that is
+not hours worked include rest day pay for 4 days, statutory holiday
+pay for 1 day and annual leave pay for 1 day
+Calculation
+(1) Minimum wage according to the total number of hours worked for this
+month :
+$8,160 (204 hours X $40)
+(2) Wages payable to the employee in respect of this month :
+$8,810.1 ($11,000 ─ rest day pay of $1,466.7
+─ statutory holiday pay
+of $361.6
+─ annual leave pay of $361.6
+)
+➡ Since (2) is not less than (1), the monthly salary of $11,000 of the
+employee has met the minimum wage requirement.
+8 The SMW rate is $40 per hour with effect from 1 May 2023.
+9 Whether rest days are with or without pay and the calculation method of rest day pay are
+employment terms in accordance with the employment contract or agreement between
+employers and employees. In the present example, it is assumed that rest day pay is the
+payment made to the employee for time that is not hours worked and rest day pay for
+4 days is $1,466.7 (i.e. $11,000 ÷ 30 days X 4 rest days). The amount of rest day pay may
+vary if the number of calendar days or the number of rest days in the relevant month or
+its calculation method as agreed between employers and employees is different from this
+example.
+10 Calculating 1 day statutory holiday pay/1 day annual leave pay on the basis of the
+12-month average wages assuming that the monthly salary was $11,000 in the past
+12 months without any periods or wages to be disregarded :
+$11,000X 12 - $0 = $361.6365 - 0
+For details about calculating statutory entitlements on the basis of the 12-month average
+wages, please refer to A Concise Guide to the Employment Ordinance.
+C. Wages payable to employee in respect of wage period
+
+[page 23]
+Examples on monthly-rated, daily-rated and piece-rated employees
+Example 16 (monthly-rated) :
+Assuming
+🔹 the following employment terms according to the contract of
+employment :
+📌 remuneration : $10,200 per month with paid rest days on
+Sundays
+📌 working hours :
+Monday to Saturday – 9:00 a.m. to 5:00 p.m. including 1-hour
+paid meal break which is regarded as hours worked as agreed
+between the employer and the employee. The employee is
+entitled to an overtime pay of $60 per hour.
+🔹 total number of hours worked in this month : 220 hours (including 4 hours
+of overtime)
+Calculation
+(1) Minimum wage according to the total number of hours worked for this
+month :
+$8,800 (220 hours X $40)
+(2) Wages payable to the employee in respect of this month :
+$9,123.9 ($10,200 + overtime pay (4 X $60) ─ rest day pay of
+$1,316.1
+)
+➡ Since (2) is not less than (1), the monthly salary together with
+overtime pay of the employee, totaling $10,440, has met the
+minimum wage requirement.
+11 Assumptions : There are 31 days (including 4 Sundays) in this month and the actual total
+number of hours worked is 220 hours (27 days from Monday to Saturday X 8 hours per
+day, and 4 hours’ overtime). In this example, as meal break is regarded as working hours
+of the employee in accordance with the contract of employment or agreement with the
+employer, it is included in computing minimum wage.
+12 Assumptions : Rest day pay is the payment made to the employee for time that is not
+hours worked. Rest day pay for the 4 Sundays is $10,200 ÷ 31 days X 4 days = $1,316.1.
+C. Wages payable to employee in respect of wage period
+
+[page 24]
+Example 17 (monthly-rated) :
+Assuming
+🔹 the following employment terms according to the contract of
+employment :
+📌 remuneration : $9,200 per month with paid rest days on Sundays
+📌 working hours :
+Monday to Friday – 9:00 a.m. to 5:00 p.m. excluding 1-hour
+meal break which is regarded as paid according to the wage
+calculation method all along adopted by the employer and the
+employee; Saturday – 9:00 a.m. to 1:00 p.m. (same daily wages
+for Monday to Saturday)
+🔹 total number of hours worked in this month : 170 hours
+Calculation
+(1) Minimum wage according to the total number of hours worked for this
+month :
+$6,800 (170 hours X $40)
+(2) Wages payable to the employee in respect of this month :
+$7,130 ($9,200 ─ rest day pay of $1,226.7
+─ meal break pay of
+$843.3
+)
+➡ Since (2) is not less than (1), the monthly salary of $9,200 of the
+employee has met the minimum wage requirement.
+13 Assumptions : There are 30 days (including 4 Saturdays and 4 Sundays) in this month
+and the actual total number of hours worked is 170 hours (22 days from Monday to Friday
+X 7 hours per day + 4 Saturdays X 4 hours per day).
+14 Assumptions : Rest day pay is the payment made to the employee for time that is not
+hours worked. Rest day pay for the 4 Sundays is : $9,200 ÷ 30 days X 4 days = $1,226.7.
+15 Whether meal breaks are with or without pay and the calculation method of meal break pay
+are employment terms in accordance with the employment contract or agreement between
+employers and employees. In the present example, it is assumed that there are 30 days in
+the month. Meal break pay is the payment made to the employee for time that is not hours
+worked. With the same hourly wages for working hours and meal break in the 22 days
+from Monday to Friday, meal break pay is $843.3 (i.e. $9,200 ÷ 30 days ÷ 8 hours X 1 hour
+X 22 meal breaks). The amount of meal break pay may vary if the number of calendar
+days or the number of working days in the relevant month or its calculation method as
+agreed between employers and employees is different from this example.
+C. Wages payable to employee in respect of wage period
+
+[page 25]
+Example 18 (daily-rated) :
+Assuming
+🔹 the following employment terms according to the contract of
+employment :
+📌 remuneration : $360 per day, wage period is a calendar month,
+with no-pay rest days on Sundays
+📌 working hours :
+Monday to Saturday – 9:00 a.m. to 5:00 p.m. including 1-hour
+paid meal break
+🔹 total number of hours worked in this month : 216 hours
+Calculation
+(1) Minimum wage according to the total number of hours worked for this
+month :
+$8,640 (216 hours X $40)
+(2) Wages payable to the employee in respect of this month :
+$9,720 (27 days X $360 per day)
+➡ Since (2) is not less than (1), the remuneration of $9,720 of the
+employee has met the minimum wage requirement.
+16 Assumptions : There are 31 days (including 4 Sundays) in this month and the actual total
+number of hours worked is 216 hours (27 days from Monday to Saturday X 8 hours per
+day). In this example, as meal break is regarded as working hours of the employee in
+accordance with the contract of employment or agreement with the employer, it is included
+in computing minimum wage.
+17 As the employee in this example is not entitled to payment for time that is not hours
+worked, no deduction from his remuneration is required in computing his wages payable
+in respect of that month.
+C. Wages payable to employee in respect of wage period
+
+[page 26]
+Example 19 (piece-rated) :
+Assuming
+🔹 the following employment terms according to the contract of
+employment :
+📌 remuneration : piece-rated at $100 per piece, with no-pay meal
+break; wage period is a calendar month; total remuneration for
+this month is $8,500 ($100 X 85pieces)
+📌 total number of hours worked in this month : 220 hours
+Calculation
+(1) Minimum wage according to the total number of hours worked for this
+month :
+$8,800 (220 hours X $40)
+(2) Wages payable to the employee in respect of this month : $8,500
+➡ Since (2) is less than (1), apart from paying wages of $8,500, the
+employer has to pay additional remuneration of $300 ($8,800 ─
+$8,500), i.e. $8,800 ($8,500 + $300) in total, to meet the minimum
+wage requirement.
+C. Wages payable to employee in respect of wage period
+
+[page 27]
+Example 20 (monthly-rated) :
+Assuming
+🔹 the following employment terms according to the contract of
+employment :
+📌 remuneration : $10,600 per month with 1 paid rest day per week
+📌 working hours :
+6 days per week with 9 working hours per day including 1-hour
+paid meal break which is regarded as hours worked as agreed
+between the employer and the employee
+🔹 total number of hours worked in this month : 243 hours
+Calculation
+(1) Minimum wage according to the total number of hours worked for this
+month :
+$9,720 (243 hours X $40)
+(2) Wages payable to the employee in respect of this month :
+$9,232.3 ($10,600 X rest day pay of $1,367.7
+)
+➡ Since (2) is less than (1), apart from paying monthly salary of $10,600,
+the employer has to pay additional remuneration of $487.7 ($9,720
+─ $9,232.3), i.e. $ 11,087.7 ($10,600 + $487.7) in total, to meet the
+minimum wage requirement.
+18 Assumptions : There are 31 days (including 4 rest days) in this month and the actual total
+number of hours worked is 243 hours (27 days X 9 hours per day). In this example, as
+meal break is regarded as working hours of the employee in accordance with the contract
+of employment or agreement with the employer, it is included in computing minimum
+wage.
+19 Assumptions : Rest day pay is the payment made to the employee for time that is not
+hours worked. Rest day pay for 4 days is : $10,600 ÷ 31 days X 4 days = $1,367.7.
+C. Wages payable to employee in respect of wage period
+
+[page 28]
+Example 21 (monthly-rated) :
+Assuming
+🔹 the following employment terms according to the contract of
+employment :
+📌 remuneration : $8,100 per month with no-pay rest days on
+Sundays
+📌 working hours :
+6 days per week with 7 working hours per day, excluding a 1-hour
+no-pay meal break daily
+🔹 total number of hours worked in this month : 189 hours
+Calculation
+(1) Minimum wage according to the total number of hours worked for this
+month :
+$7,560 (189 hours X $40)
+(2) Wages payable to the employee in respect of this month : $8,100
+➡ Since (2) is not less than (1), the monthly salary of $8,100 of the
+employee has met the minimum wage requirement.
+20 Assumptions : There are 31 days (including 4 Sundays) in this month and the actual total
+number of hours worked is 189 hours (27 days from Monday to Saturday X 7 hours per
+day). In Examples 21 and 22, as there is no agreement between the employer and the
+employee that meal break is the employee’s working hours and the employee’s meal
+break does not fall under the circumstances of hours worked as specified in the Minimum
+Wage Ordinance, it is not necessary to include such meal break in computing minimum
+wage (Please refer to the section on “Meal break” above).
+C. Wages payable to employee in respect of wage period
+
+[page 29]
+Example 22 (monthly-rated) :
+Assuming
+🔹 the following employment terms according to the contract of
+employment :
+📌 remuneration : $9,000 per month with 1 no-pay rest day per
+week
+📌 working hours :
+6 days per week with 9 working hours per day, excluding a 1-hour
+no-pay meal break daily
+🔹 total number of hours worked in this month : 243 hours
+Calculation
+(1) Minimum wage according to the total number of hours worked for this
+month :
+$ 9,720 (243 hours X $40)
+(2) Wages payable to the employee in respect of this month : $9,000
+➡ Since (2) is less than (1), apart from paying monthly salary of $9,000,
+the employer has to pay additional remuneration of $720 ($9,720 ─
+$9,000), i.e. $9,720 ($9,000 + $720) in total, to meet the minimum
+wage requirement.
+21 Assumptions : There are 31 days (including 4 rest days) in this month and the actual total
+number of hours worked is 243 hours (27 days X 9 hours per day).
+C. Wages payable to employee in respect of wage period
+
+[page 30]
+(2) Deductions from wages
+🔹 Deductions from the wages of an employee made under the specified
+provisions of EO in respect of any wage period must be counted
+as part of the wages payable in respect of that wage period. These
+specified provisions refer to section 25(3) and section 32(2)(b), (c), (d),
+(e), (f), (g), (ga), (h) and (i) of EO. For these provisions, please refer
+to the text of EO and A Concise Guide to the Employment Ordinance.
+There are some examples of application below.
+Example 23 :
+An employee has damaged the goods of the employer by neglect or
+default. The employer deducts $100, equivalent to the value of the
+damage, from the wages of this employee in respect of January in
+accordance with EO.
+➡ In determining whether the wages of this employee meet the
+minimum wage requirement, this deducted amount of $100 is
+counted as wages payable in respect of January.
+Example 24 :
+An employer has made a loan to an employee. With the employee’s
+written consent, the employer deducts $200 from the wages of
+this employee in respect of February for the recovery of the loan in
+accordance with EO.
+➡ In determining whether the wages of this employee meet the
+minimum wage requirement, this deducted amount of $200 is
+counted as wages payable in respect of February.
+C. Wages payable to employee in respect of wage period
+
+[page 31]
+Example 25 :
+An employer deducts $500 from an employee’s wages in respect of May
+to make contributions to the Mandatory Provident Fund on behalf of the
+employee (i.e. employee’s contributions for Mandatory Provident Fund).
+➡ In determining whether the wages of this employee meet the
+minimum wage requirement, this deducted amount of $500 is
+counted as wages payable in respect of May.
+Example 26 :
+An employer deducts $400 from an employee’s wages in respect of April
+for the recovery of an over-payment of wages made to the employee in
+the wage period of March in accordance with EO.
+➡ In determining whether the wages of this employee meet the
+minimum wage requirement, this amount of $400 is counted as
+wages payable in respect of April, not as wages payable in respect
+of March.
+C. Wages payable to employee in respect of wage period
+
+[page 32]
+(3) Advance or over-payment of wages
+🔹 An advance or over-payment of wages made to an employee in any
+wage period must not be counted as part of the wages payable in
+respect of that wage period.
+Example 27 :
+In May, an employer has made an advance payment of wages of $500 to
+an employee from his wages payable in respect of June. The employer
+subsequently deducts such amount from the employee’s wages payable
+in respect of June in accordance with EO.
+➡ In determining whether the wages of this employee meet the
+minimum wage requirement, this amount of $500 is counted as
+wages payable in respect of June, not as wages payable in respect
+of May.
+C. Wages payable to employee in respect of wage period
+
+[page 33]
+(4) Payment of arrears of wages in respect of an earlier wage period
+🔹 A payment of arrears of wages in respect of an earlier wage period
+made to an employee in any wage period must not be counted as
+part of the wages payable in respect of the wage period in which it is
+paid.
+Example 28 :
+An employer has defaulted payment of wages of $600 in respect of July
+to an employee, and pays such arrears of wages in the wage period of
+August.
+➡ In determining whether the wages of this employee meet the
+minimum wage requirement, this amount of $600 is counted as
+wages payable in respect of July, not as wages payable in respect of
+August.
+22 According to EO, an employer who wilfully and without reasonable excuse fails to pay
+wages to an employee when it becomes due is liable to prosecution and, upon conviction,
+to a fine of $350,000 and to imprisonment for three years.
+C. Wages payable to employee in respect of wage period
+
+[page 34]
+(5) Counting of commission
+🔹 According to EO, the definition of wages includes commission (except
+commission which is of a gratuitous nature or which is payable only
+at the discretion of the employer). Hence, other than commission
+which is gratuitous or payable only at the discretion of the employer,
+commission is wages and must be paid in accordance with the
+provisions of EO. Subject to the provisions of other legislation,
+employers and employees may agree on how commission is
+calculated and payable in their employment contracts.
+Commission payable according to the contract of employment
+🔹 In determining whether the wages of an employee meet the minimum
+wage requirement, commission payable under the contract of
+employment is counted as wages payable in respect of the wage
+period as specified in the employment contract (no matter the
+employer has paid it or not when it has been due
+) (Example 29).
+If commission is payable in respect of a number of wage periods
+according to the contract of employment, in determining whether
+the wages of an employee meet the minimum wage requirement,
+commission is counted as wages payable in respect of the
+corresponding wage period as provided in the contract of employment
+(Example 30).
+Commission paid according to MWO
+🔹 In addition, given the unique nature of commission, MWO sets out
+the following provision for employers and employees to apply in the
+counting of commission as wages payable :
+For the purpose of computing minimum wage, any commission paid
+📌 with the prior agreement of the employee
+📌 at any time after the first 7 days of a wage period but before the
+end of the 7
+th
+day immediately after that wage period
+must be counted as part of the wages payable in respect of that
+wage period irrespective of when the work is done or the commission
+is otherwise payable under the contract of employment.
+C. Wages payable to employee in respect of wage period
+
+[page 35]
+Hence, in determining whether the wages of an employee meet
+the minimum wage requirement, if there is prior agreement of
+the employee, commission can be counted as part of the wages
+payable in respect of a wage period according to the timing when
+the commission is paid (Examples 31 and 32). Without the prior
+agreement of the employee, the above provision is not applicable. In
+applying the provision, employers have to comply with the provisions
+on wage payment and deductions under EO. Please refer to A
+Concise Guide to the Employment Ordinance for details.
+Example 29 :
+An employee is entitled to a basic salary plus commission according to
+the contract of employment. His wage period is each calendar month.
+➡ In determining whether the wages of this employee meet the
+minimum wage requirement, wages payable in respect of each
+month include the basic salary and commission, no matter whether
+the employer has paid it or not.
+Example 30 :
+An employee is entitled to a basic salary plus commission according to
+the contract of employment. His wage period is each calendar month.
+According to the contract of employment, commission is payable in
+respect of a number of wage periods.
+➡ In determining whether the wages of this employee meet the
+minimum wage requirement, wages payable in respect of each
+month include the basic salary as well as the commission payable in
+respect of the corresponding month, no matter whether the employer
+has paid it or not.
+C. Wages payable to employee in respect of wage period
+
+[page 36]
+Example 31 :
+An employer pays an employee commission of $1,000 (which is originally
+payable in respect of the wage period of March) on 31 January with the
+prior agreement of the employee.
+➡ In determining whether the wages of this employee meet the
+minimum wage requirement, this commission of $1,000 is counted
+as wages payable in respect of January
+, not as wages payable in
+respect of March.
+Example 32 :
+An employer pays an employee commission of $2,000 and $3,000
+on 8 April and 7 June respectively with the prior agreement of the
+employee. The commission is originally payable in respect of the wage
+period of July.
+➡ In determining whether the wages of this employee meet the
+minimum wage requirement, the commission of $2,000 is counted
+as wages payable in respect of April
+and the commission of $3,000
+is counted as wages payable in respect of May
+, both not being
+counted as wages payable in respect of July.
+23 Being paid in the period from 8 January to 7 February, the commission is counted as
+wages payable in respect of January.
+24 Being paid in the period from 8 April to 7 May, the commission is counted as wages
+payable in respect of April.
+25 Being paid in the period from 8 May to 7 June, the commission is counted as wages
+payable in respect of May.
+C. Wages payable to employee in respect of wage period
+
+[page 37]
+D
+No contracting out
+🔹 Any provision of a contract of employment that purports to extinguish
+or reduce any right, benefit or protection conferred on the employee
+by MWO shall be void. In other words, any agreement made under
+the employment contract between an employer and an employee
+cannot reduce the latter’s entitlement to SMW.
+🔹 Same as EO, a contract of employment is an agreement on the
+employment conditions made between an employer and an employee.
+The agreement can be made orally or in writing and it includes both
+express and implied terms.
+D. No contracting out
+
+[page 38]
+5 Employer to keep records of the total number
+of hours worked by employee (where applicable)
+🔹 The wage and employment records kept by an employer under EO
+should include the total number of hours (including any part of an
+hour)
+worked by the employee in a wage period if :
+📌 SMW applies to the employee (Please refer to 3 Coverage of
+the Ordinance above); and
+📌 wages payable in respect of that wage period (Please refer
+to 4 Application of the Ordinance (the section on C. Wages
+payable to employee in respect of wage period ) above) are
+less than $16,300 per month27.
+Therefore, when wages payable to an employee in respect of a wage
+period are at $16,300
+or above per month, the wage and employment
+records kept by an employer according to EO are not required to include
+the total number of hours worked by the employee in that wage period.
+Note :
+The definition of wages for the monthly monetary cap ($16,300
+)
+in exempting employers from the requirement to keep records of
+the total number of hours worked by employees is the same as
+that in MWO. Payment made to the employee in a wage period
+for any time that is not hours worked (e.g. rest day pay, holiday
+pay, annual leave pay, maternity leave pay, paternity leave pay,
+sickness allowance, etc.) should not be counted as part of the
+wages payable in respect of the wage period. Therefore, in
+determining whether the wages payable to an employee in respect
+of a wage period are not less than the monthly monetary cap,
+these payments, where applicable, should not be included. In
+addition, MWO also sets out whether some other sums should
+be counted as wages payable in respect of a wage period in
+order to determine whether the wages meet the minimum wage
+requirement. For details, please refer to 4 Application of the
+Ordinance (the section on C. Wages payable to employee in
+respect of wage period) above.
+26 This does not include hours worked before the commencement date of SMW (i.e. 1 May
+2011).
+27 With effect from 1 May 2023, the monetary cap is increased from $15,300 to $16,300 per
+month.
+
+[page 39]
+Example 33 :
+Assuming the following employment terms according to the contract of
+employment :
+An employee’s wage period is each calendar month and he is entitled to
+a monthly salary of $17,300 with paid rest days. In the wage period of
+May, payments made to the employee for time that is not hours worked
+in the wage period are rest day pay for 4 days and statutory holiday pay
+for 1 day. Whether the wages payable meet the monthly monetary cap is
+calculated as follows :
+monthly salary of $17,300 ─ rest day pay of $2,232.3
+─ statutory
+holiday pay of $568.8
+= $14,498.9
+➡ Since the amount calculated is less than the monthly monetary cap
+of $16,300
+, the employer must keep records of the total number of
+hours worked by the employee in that wage period.
+28 Assumptions : Rest day pay is the payment made to the employee for time that is not
+hours worked. Rest day pay for 4 days is : $17,300 ÷ 31 days X 4 days = $2,232.3.
+29 Calculating statutory holiday pay for 1 day on the basis of the 12-month average wages
+assuming that the monthly salary was $17,300 in the past 12 months without any periods
+or wages to be disregarded :
+$17,300 X 12 – $0
+= $568.8
+365 - 0
+For details about calculating statutory entitlements on the basis of the 12-month average
+wages, please refer to A Concise Guide to the Employment Ordinance.
+5 Employer to keep records of the total number of hours worked by employee (where applicable)
+
+[page 40]
+Example 34 :
+Assuming the following employment terms according to the contract of
+employment :
+An employee’s wage period is each calendar month and he is entitled to
+a monthly salary of $17,300 with no-pay rest days. In the wage period
+of May, payment made to the employee for time that is not hours worked
+in the wage period is statutory holiday pay for 1 day. Whether the wages
+payable meet the monthly monetary cap is calculated as follows :
+monthly salary of $17,300 ─ statutory holiday pay of $663.3
+=
+$16,636.7
+➡ Since the amount calculated is not less than the monthly monetary
+cap of $16,300
+, the wage and employment records are not required
+to include the total number of hours worked in that wage period.
+🔹 If the wage period of an employee is not a calendar month, the
+monetary cap of $16,300
+per month on keeping records of the
+total number of hours worked is calculated on a proportional basis
+(Examples 35 and 36).
+🔹 Neither EO nor MWO specifies the form of recording the total number of
+hours worked. Officers of the Labour Department may inspect the wage
+and employment records and require the total number of hours worked
+and the following particulars in the wage and employment records (which
+are set out in EO) to be produced in a single document :
+📌 name and identity card number of the employee
+📌 wage period
+📌 wages paid in respect of each wage period
+30 Calculating statutory holiday pay for 1 day on the basis of the 12-month average wages
+assuming that the monthly salary was $17,300 in the past 12 months without any periods
+or wages to be disregarded except no-pay rest days :
+$17,300 X 12 – $0
+= $663.3
+365 - 52
+For details about calculating statutory entitlements on the basis of the 12-month average
+wages, please refer to A Concise Guide to the Employment Ordinance.
+5 Employer to keep records of the total number of hours worked by employee (where applicable)
+
+[page 41]
+📌 periods of annual leave, sick leave, maternity leave, paternity
+leave and holidays entitled and taken, together with details of
+payments made in respect of such periods
+🔹 While the employer is not required to keep the records of the total
+number of hours worked by the employee when wages payable in
+respect of a wage period are at $16,300
+or above per month , it is
+pertinent to note that the employee is still entitled to be paid wages in
+respect of that wage period of not less than the minimum wage.
+Example 35 :
+The wage period of an employee is half-monthly, lasting from the
+st
+day to the 15
+th
+day and from the 16
+th
+day to the last day of a month.
+Taking the two wage periods in August as an example, the monetary cap
+applicable to this employee for the records of the total number of hours
+worked is calculated proportionally as follows –
+(a) Wage period from 1 to 15 August :
+$16,300 X 15 days ÷ 31 days (i.e. the ratio that the period 1 to 15
+August bears to August) = $7,887.1
+➡ If wages payable in respect of the above wage period are at $7,887.1
+or above, the wage and employment records are not required to
+include the total number of hours worked in that wage period.
+(b) Wage period from 16 to 31 August :
+$16,300 X 16 days ÷ 31 days (i.e. the ratio that the period 16 to 31
+August bears to August) = $8,412.9
+➡ If wages payable in respect of the above wage period are at $8,412.9
+or above, the wage and employment records are not required to
+include the total number of hours worked in that wage period.
+5 Employer to keep records of the total number of hours worked by employee (where applicable)
+
+[page 42]
+Example 36 :
+The wage period of an employee runs from the 16
+th
+day of each month
+to the 15
+th
+day of the following month. Taking the wage period of 16
+August to 15 September as an example, the monetary cap applicable
+to this employee for the records of the total number of hours worked is
+calculated proportionally as follows –
+$16,300 X 16 days ÷ 31 days (i.e. the ratio that the period 16 to 31
+August bears to August) + $16,300 X 15 days ÷ 30 days (i.e. the ratio
+that the period 1 to 15 September bears to September) = $16,562.9
+➡ If wages payable in respect of the above wage period are at $16,562.9
+or above, the wage and employment records are not required to
+include the total number of hours worked in that wage period.
+Note :
+● According to EO, every employer must at all times keep a record
+setting out the wage and employment history of each employee
+covering the period of his employment during the preceding
+12 months, including the total number of hours worked in each
+wage period (where applicable). The wage and employment
+records must be kept at the employer’s place of business or at
+the place where the employee is employed, and they should also
+be kept for a period of another six months after the employee
+ceases to be employed. An employer who fails to keep the
+wage and employment records is liable to prosecution and,
+upon conviction, to a fine of $10,000. For information on the
+main provisions of EO, please refer to A Concise Guide to the
+Employment Ordinance.
+● Employers and employees should keep proper records in
+relation to attendance, leave and wages, etc. to safeguard their
+respective rights and benefits and help avoid unnecessary
+disputes.
+5 Employer to keep records of the total number of hours worked by employee (where applicable)
+
+[page 43]
+A
+Appendix 1 Exemption of specified student interns
+and work experience students
+🔹 SMW does not apply to specified student interns as well as work
+experience students during a period of exempt student employment.
+Specified student interns
+🔹 A specified student intern is :
+📌 a student undergoing a period of work arranged or endorsed by
+a local education institution specified in Schedule 1 to MWO,
+and the work is a compulsory or elective component of the
+requirements of a full-time accredited programme being provided
+by the institution to the student; or
+📌 a student resident in Hong Kong and undergoing a period of
+work arranged or endorsed by an institution, and the work is
+a compulsory or elective component of the requirements of
+a full-time education programme for a non-local academic
+qualification at degree or higher level being provided by the
+institution to the student.
+
+[page 44]
+B
+Work experience students during
+a period of exempt student employment
+🔹 A work experience student is :
+📌 a student who is enrolled in a full-time accredited programme
+provided by a local education institution specified in Schedule
+1 to MWO; or
+📌 a student who is resident in Hong Kong and enrolled in a full-time
+education programme for a non-local academic qualification
+at degree or higher level
+and is under the age of 26 years at the beginning of employment.
+The work experience student may agree with the employer to have a
+continuous period of up to 59 days as exempt student employment if :
+(a) the student has not commenced another exempt student employment
+period within the same calendar year (whether under the employment
+of the same employer or not) (Example 37); and
+(b) the student has made a statutory declaration verifying the fact in (a)
+above and provided the declaration (or copy) to the employer.
+Appendix 1 Exemption of specified student interns and work experience students
+
+[page 45]
+Example 37 :
+A work experience student is employed from 1 July and agrees with the
+employer on a period of exempt student employment up to 28 August of
+the same year (i.e. a continuous period of 59 days).
+➡ There can only be one period of exempt student employment which
+commences in the same calendar year
+. In this example, in case
+the work experience student is having a period of exempt student
+employment of less than 59 days under one contract of employment,
+the remaining days are not allowed to be carried forward to another
+contract of employment for the purpose of exemption. As such, the
+work experience student cannot commence another exempt student
+employment period in that calendar year, regardless of whether
+the employment is with the same employer or not. In addition, the
+counting of a continuous period of up to 59 days as exempt student
+employment is based on calendar days and not working days.
+31 A calendar year runs from 1 January to 31 December.
+Appendix 1 Exemption of specified student interns and work experience students
+
+[page 46]
+Local education institutions specified in Schedule 1 to MWO
+1 The Education University of Hong Kong
+2 University of Hong Kong
+3 The Hong Kong Polytechnic University
+4 The Chinese University of Hong Kong
+5 Hong Kong Baptist University
+6 City University of Hong Kong
+7 The Hong Kong Academy for Performing Arts
+8 The Hong Kong University of Science and Technology
+9 Hong Kong Metropolitan University
+10 Lingnan University
+11 Approved post secondary colleges registered under the Post
+Secondary Colleges Ordinance (Cap. 320)
+12 Bodies established under the Vocational Training Council
+Ordinance (Cap. 1130)
+13 Schools registered or provisionally registered under the
+Education Ordinance (Cap. 279)
+32 For information on whether a school is registered or provisionally registered under the
+Education Ordinance, please make use of the School Search Function available at the
+homepage of the Education Bureau (www.edb.gov.hk). For exemption from SMW, the
+programme, if provided by a school registered or provisionally registered under the
+Education Ordinance, should be at post-secondary level. The Information Portal for
+Accredited Post-secondary Programmes of the Education Bureau (www.ipass.gov.hk)
+provides information on full-time locally-accredited post-secondary programmes.
+Appendix 1 Exemption of specified student interns and work experience students
+
+[page 47]
+Note :
+● The Labour Department has published a booklet on Statutory Minimum
+Wage : Notes for Student Employees and Employers on the details of
+the exemption.
+● Unless otherwise specified, MWO applies to every employee, his
+employer and the contract of employment under which he is engaged.
+However, MWO does not apply to interns/students with no employment
+relationship with the host organisation or company.
+● Since internships undertaken by work experience students are
+not necessarily curriculum-related or arranged/endorsed by the
+institutions they are studying, MWO sets out the above restrictions
+on age, duration of exempt student employment and that the student
+may commence a period of exempt student employment at most
+once in a calendar year. These restrictions do not apply to specified
+student interns whose internships must be arranged/endorsed by
+the institutions they are studying and form a compulsory/elective
+component of their programmes.
+● The exemption from SMW does not apply if a work experience student
+has not agreed with the employer to treat a certain period as a period
+of exempt student employment.
+Appendix 1 Exemption of specified student interns and work experience students
+
+[page 48]
+Appendix 2 Enquiries
+24-hour Enquiry Hotline: 2717 1771 (handled by “1823”)
+Enquiry in person to offices of the Labour Relations
+Division of the Labour Department:
+www.labour.gov.hk/eng/tele/lr1.htm
+Labour Department’s Homepage : www.labour.gov.hk

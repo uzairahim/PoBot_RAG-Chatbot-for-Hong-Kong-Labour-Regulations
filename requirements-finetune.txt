@@ -1,0 +1,9 @@
+# Fine-tuning dependencies (QLoRA on an open-source model).
+# Intended for a free cloud GPU (Google Colab / Kaggle T4 16GB), because the
+# local GPU (MX350, 2GB VRAM) is too small for LLM fine-tuning.
+transformers>=4.44.0
+peft>=0.12.0
+datasets>=2.20.0
+accelerate>=0.33.0
+bitsandbytes>=0.43.0     # 4-bit quantization for QLoRA (needs CUDA)
+trl>=0.9.0               # SFTTrainer

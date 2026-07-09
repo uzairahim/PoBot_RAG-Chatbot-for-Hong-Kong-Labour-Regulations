@@ -1,0 +1,104 @@
+{
+  "description": "Official Hong Kong Government sources on labour & employment regulations (Labour Dept, FDH portal, Immigration Dept, MPFA). Downloaded into data/raw/ by `python -m src.fetch_sources`. The `title`, `publisher` and `url` fields are surfaced as citations in chatbot answers.",
+  "sources": [
+    {
+      "id": "employment_ordinance",
+      "title": "A Concise Guide to the Employment Ordinance",
+      "publisher": "Hong Kong Labour Department",
+      "category": "employment rights",
+      "url": "https://www.labour.gov.hk/eng/public/wcp/ConciseGuide/EO_guide_full.pdf",
+      "filename": "employment_ordinance_concise_guide.pdf",
+      "type": "pdf"
+    },
+    {
+      "id": "employment_ordinance_glance",
+      "title": "Employment Ordinance at a Glance",
+      "publisher": "Hong Kong Labour Department",
+      "category": "employment rights",
+      "url": "https://www.labour.gov.hk/common/public/pdf/wcp/EO_at_a_Glance_en.pdf",
+      "filename": "employment_ordinance_at_a_glance.pdf",
+      "type": "pdf"
+    },
+    {
+      "id": "statutory_minimum_wage",
+      "title": "Statutory Minimum Wage: Reference Guidelines for Employers and Employees",
+      "publisher": "Hong Kong Labour Department",
+      "category": "wages",
+      "url": "https://www.labour.gov.hk/common/public/pdf/smw/SMW_Reference_Guidelines_2023_eng.pdf",
+      "filename": "statutory_minimum_wage_guidelines.pdf",
+      "type": "pdf"
+    },
+    {
+      "id": "employment_agencies_cop",
+      "title": "Code of Practice for Employment Agencies",
+      "publisher": "Hong Kong Labour Department",
+      "category": "recruitment agencies",
+      "url": "https://www.labour.gov.hk/text_alternative/pdf/eng/CoP_Eng.pdf",
+      "filename": "employment_agencies_code_of_practice.pdf",
+      "type": "pdf"
+    },
+    {
+      "id": "fdh_standard_contract",
+      "title": "Standard Employment Contract and Terms of Employment for Foreign Domestic Helpers",
+      "publisher": "Hong Kong Immigration Department",
+      "category": "migrant worker protections",
+      "url": "https://www.immd.gov.hk/eng/forms/forms/fdhcontractterms.html",
+      "filename": "fdh_standard_contract_terms.html",
+      "type": "html"
+    },
+    {
+      "id": "wage_record_keeping",
+      "title": "Proper Keeping of Wage and Employment Records",
+      "publisher": "Hong Kong Labour Department",
+      "category": "employer obligations",
+      "url": "https://www.labour.gov.hk/common/public/pdf/wcp/Proper_Keeping_of_Wage_and_Employment_Records_en.pdf",
+      "filename": "wage_and_employment_records.pdf",
+      "type": "pdf"
+    },
+    {
+      "id": "fdh_wage_records",
+      "title": "Wage and Employment Records (For Foreign Domestic Helpers)",
+      "publisher": "Hong Kong Labour Department",
+      "category": "migrant worker protections",
+      "url": "https://www.labour.gov.hk/eng/public/wcp/Wage_and_Employment_Records_Eng.pdf",
+      "filename": "fdh_wage_and_employment_records.pdf",
+      "type": "pdf"
+    },
+    {
+      "id": "employees_compensation",
+      "title": "A Concise Guide to the Employees' Compensation Ordinance",
+      "publisher": "Hong Kong Labour Department",
+      "category": "work injury compensation",
+      "url": "https://www.labour.gov.hk/eng/public/ecd/pco360.pdf",
+      "filename": "employees_compensation_ordinance_guide.pdf",
+      "type": "pdf"
+    },
+    {
+      "id": "mpf_employers_handbook",
+      "title": "Employers' Handbook on MPF Obligations",
+      "publisher": "Mandatory Provident Fund Schemes Authority (MPFA)",
+      "category": "retirement protection",
+      "url": "https://www.mpfa.org.hk/eng/information_centre/publications/booklets_publications/mpf_system/files/ER_Handbook_Eng.pdf",
+      "filename": "mpf_employers_handbook.pdf",
+      "type": "pdf"
+    },
+    {
+      "id": "hiring_fdh_guide",
+      "title": "Hiring Foreign Domestic Helpers (FDHs) - Rights and Obligations",
+      "publisher": "GovHK (Government of the HKSAR)",
+      "category": "migrant worker protections",
+      "url": "https://www.gov.hk/en/theme/guidebook/employment/family/foreigndomestichelper.htm",
+      "filename": "hiring_foreign_domestic_helpers.html",
+      "type": "html"
+    },
+    {
+      "id": "fdh_faq",
+      "title": "Foreign Domestic Helpers - Frequently Asked Questions",
+      "publisher": "Hong Kong Labour Department (FDH Portal)",
+      "category": "migrant worker protections",
+      "url": "https://www.fdh.labour.gov.hk/en/faq.html",
+      "filename": "fdh_faq.html",
+      "type": "html"
+    }
+  ]
+}
