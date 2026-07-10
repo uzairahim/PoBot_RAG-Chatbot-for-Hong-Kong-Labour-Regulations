@@ -30,8 +30,8 @@ quantization:
 training:
   epochs: 3
   learning_rate: 0.0002
-  per_device_batch_size: 2
-  gradient_accumulation_steps: 4
+  per_device_batch_size: 1     # keep peak VRAM low on a 15 GB T4
+  gradient_accumulation_steps: 8  # effective batch = 1 x 8 = 8 (unchanged)
   warmup_ratio: 0.03
   max_seq_length: 1024
   logging_steps: 10
