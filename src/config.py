@@ -15,6 +15,13 @@ from dotenv import load_dotenv
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 load_dotenv(PROJECT_ROOT / ".env")
 
+# faiss and torch each ship their own OpenMP runtime; on Windows, loading a
+# second large torch model (the hf_local LLM) on top of faiss can abort the
+# process with a duplicate-OpenMP crash (exit 139). Allowing the duplicate is
+# the accepted workaround. Set before torch/faiss import; setdefault so an
+# explicit user value still wins. Harmless on platforms without this clash.
+os.environ.setdefault("KMP_DUPLICATE_LIB_OK", "TRUE")
+
 # --- Filesystem layout (single source of truth for where everything lives) ---
 # If the storage layout ever changes, change it HERE and nowhere else.
 DATA_DIR = PROJECT_ROOT / "data"

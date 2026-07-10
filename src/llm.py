@@ -96,13 +96,15 @@ class HFLocalProvider(LLMProvider):
 
         base = settings.hf_base_model
         self.tokenizer = AutoTokenizer.from_pretrained(base)
-        self._model = AutoModelForCausalLM.from_pretrained(
-            base, torch_dtype=torch.float32, device_map="auto",
-        )
+        # float32 for CPU correctness; no device_map (that path needs accelerate
+        # and is for multi-GPU/offload). We place the model on the one device we
+        # have — GPU if present, else CPU
+        self._model = AutoModelForCausalLM.from_pretrained(base, dtype=torch.float32)
         # Attach the fine-tuned adapter if one is configured.
         if settings.hf_adapter_dir:
             from peft import PeftModel
             self._model = PeftModel.from_pretrained(self._model, settings.hf_adapter_dir)
+        self._model.to("cuda" if torch.cuda.is_available() else "cpu")
         self._model.eval()
 
     def chat(self, messages, temperature=0.1, max_tokens=1024) -> str:
