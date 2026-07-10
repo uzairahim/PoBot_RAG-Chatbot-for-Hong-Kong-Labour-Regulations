@@ -113,7 +113,55 @@ citations.
 > protection under the Employment Ordinance"* publication rather than
 > enumerating the concrete rights.
 
-## 3. Limitations and failure cases
+## 3. Fine-tuning (bonus): does a distilled 1B model help?
+
+**What we did.** We QLoRA-fine-tuned **Llama-3.2-1B-Instruct** (4-bit NF4, LoRA
+r=16/α=32, ~0.9% trainable params) on a small set of **32 Q&A examples distilled
+from the Groq 70B "teacher"** in our exact RAG prompt format (`build_dataset.py`
+reuses the pipeline's `build_prompt_messages`, so training data matches serving).
+Training uses **answer-only loss**: the prompt tokens (retrieved context +
+question) are masked to `-100`, so gradient flows only through *how to answer*,
+not through echoing the context (verified: **894/1000 tokens masked** on example
+0). The tuned adapter plugs back into the *same* RAG pipeline via the `hf_local`
+provider (`LLM_PROVIDER=hf_local`) — retrieval, re-ranking, and the confidence
+gate are unchanged; only the generator swaps.
+
+**The key result — retrieval grounds the small model.** Asked *"how many rest
+days is an employee entitled to?"* with **no retrieved context** (parametric
+memory only), the fine-tuned 1B answers nonsense — *"20 rest days per week."* The
+**same model, through the full RAG pipeline** (context supplied), answers:
+
+> *"An employee is entitled to not less than one rest day in every period of
+> seven days. [1]"* — confidence 0.9999, cited to *Employment Ordinance at a
+> Glance*, p.5.
+
+This is the thesis of the whole system in one comparison: a 1B model is far too
+small to *know* HK labour law, but it is perfectly capable of *reading it off
+retrieved context and citing it*. The value of the tuning is **format discipline**
+(grounding, `[n]` citations, disclaimer) on a model cheap enough to self-host or
+run offline — not raw knowledge, which stays with retrieval + the larger default
+LLM.
+
+**Base vs. fine-tuned (same prompt, adapter off vs. on).** The base model answers
+plausibly but generically; the fine-tuned model adds the precise legal conditions
+present in the corpus — *"with the consent of the employee,"* the 48-hour notice,
+and the "unforeseen emergency" qualifier — and leans toward the cited house style.
+
+**Honest limitations of the tuning.**
+- **Format discipline is inconsistent at 32 examples.** Across runs the tuned
+  model *usually* adds citations/precision, but not every time — one run produced
+  clean `[1]`/`[2]` + disclaimer, another gained the legal detail but dropped the
+  citation. More distilled examples (and/or more epochs) would tighten this; 32 is
+  a demonstration set, not a production corpus.
+- **It does not beat the 70B teacher** on hard or multi-part queries — expected
+  for a 1B student. It's a cost/portability play, not an accuracy play.
+- **CPU inference is slow** (~25–35 s/answer locally); the point is that it *runs*
+  anywhere, not that it's fast.
+
+*Reproduce:* train with `finetuning/finetune_qlora.ipynb` (Colab T4), commit the
+adapter to `finetuning/adapter/`, set `LLM_PROVIDER=hf_local`, run `chatbot.py`.
+
+## 4. Limitations and failure cases
 
 ### Failure case A — "meta-answers" when a topic is fragmented across sources
 For the broad question *"What are the rights of domestic workers?"*, the top

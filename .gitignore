@@ -11,6 +11,7 @@ __pycache__/
 .venv/
 venv/
 env/
+.pytest_cache/
 
 # Build artifacts / index (regenerable via `python -m src.ingest`)
 data/index/
